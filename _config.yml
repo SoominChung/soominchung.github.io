@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Soomin Chung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Soomin Chung"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Soomin Chung"
   avatar           : "./mine/soomin.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Researcher in Medical AI | M.S. in Bioengineering (Seoul National University)"
   location         : "Seoul, South Korea"
   email            :
   links:
@@ -138,14 +138,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=ko&user=0PojgyMAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/soominchung9910"
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
-      url: "soominchung.github.io/mine/SoominChung_CV.pdf"      
+      url: "https://soominchung.github.io/mine/SoominChung_CV.pdf"      
 
 # Site Footer
 footer:
@@ -169,7 +169,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       # url: "https://scholar.google.com/citations?user=YOUR_ID"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
