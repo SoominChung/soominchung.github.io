@@ -74,3 +74,7 @@ Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im
 - **8th Class Scholar**, Woonhae Scholarship Foundation (Jan 2021)
 - **Highest Academic Excellence Scholarship** (Top 2%), EWHA Womans University (Aug 2020)
 - **Academic Excellence Scholarship** (Top 6%), EWHA Womans University (Feb 2020, Feb 2021)
+
+---
+
+*I am always interested in collaborating on projects that apply AI to solve real-world problems, particularly in healthcare and beyond. Feel free to reach out if you'd like to discuss research opportunities or potential collaborations!*
