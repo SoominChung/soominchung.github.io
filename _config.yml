@@ -110,12 +110,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-# --- _config.yml ---
-collections:
-  pages:          # ← 폴더명과 동일
-    output: true  # 정적 사이트에 내보내기
-    permalink: /:path/
-
 
 # Site Author
 author:
@@ -335,7 +329,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -349,3 +342,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
