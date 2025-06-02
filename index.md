@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: single
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Hello! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI solutions. I am an M.S. student in Biomedical Engineering at [Seoul National University Biomedical Informatics (BMI) Lab](https://bmi.snu.ac.kr/), advised by [Prof. Kwangsoo Kim](). I recently completed a visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025).
