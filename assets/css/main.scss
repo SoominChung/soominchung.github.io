@@ -49,3 +49,12 @@ body {
   object-position: center !important;
   display: block !important;
 }
+
+// 사이드바 투명도 완전히 제거
+.sidebar {
+  opacity: 1 !important;
+  
+  &:hover {
+    opacity: 1 !important;
+  }
+}
