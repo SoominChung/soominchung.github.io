@@ -28,7 +28,7 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 **2025**
 - **A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study** [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) \\
 Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ (*co-first author) \\
-**<span style="color: #2196F3;">PLOS Medicine</span>** (SCIE, IF=10.5, JCR 2023 top 3.5%)
+**<span style="color: #2196F3;">PLOS Medicine (SCIE, IF=10.5, JCR 2023 top 3.5%)</span>**
 
 - **S3D: Sketch-Driven 3D Model Generation** [[paper]](https://arxiv.org/pdf/2505.04185) \\
 Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
@@ -45,20 +45,20 @@ Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dah
 **2024**
 - **Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients** [[paper]](https://www.nature.com/articles/s41746-024-01335-x) \\
 Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+ (*co-first author) \\
-**<span style="color: #2196F3;">npj Digital Medicine</span>** (SCIE, IF=15.2, JCR 2023 top 0.9%)
+**<span style="color: #2196F3;">npj Digital Medicine (SCIE, IF=15.2, JCR 2023 top 0.9%)</span>**
 
 - **Method and Apparatus for Drug Adjustment for Delirium Prevention** \\
 Hyeonhoon Lee, **Soomin Chung**, Hong Yeul Lee \\
-**Korean Patent Application** 10-2023-0138995
+**<span style="color: #2196F3;">Korean Patent Application</span>** 10-2023-0138995
 
-**2021-2022**
+**2021**
 - **Machine Learning Approaches as An Alternative to Human Psychophysical Tests of Prosthetic Vision** [[paper]](https://paperhost.org/proceedings/embs/EMBC21/files/2302.pdf) \\
 Na Min An, Hyeonhee Roh, **Soomin Jung**, Eun Ju Kim, Maesoon Im+ \\
-**<span style="color: #2196F3;">IEEE EMBC</span>**
+**<span style="color: #2196F3;">IEEE EMBC 2021</span>**
 
 - **Neural information of artificial vision varies depending on the level of spiking heterogeneity across retinal ganglion cells** [[paper]](https://iovs.arvojournals.org/article.aspx?articleid=2776235) \\
 Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im+ \\
-**<span style="color: #2196F3;">ARVO</span>**
+**<span style="color: #2196F3;">ARVO 2021</span>**
 
 ## Education
 - **Visiting Scholar**, Software and Societal Systems, **Carnegie Mellon University**, Aug 2024 - Feb 2025

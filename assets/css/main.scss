@@ -37,10 +37,18 @@ body {
 }
 
 // 프로필 사진을 네모나게 변경
+// 더 구체적인 선택자로 강제 적용
+.sidebar .author__avatar img,
 .author__avatar img {
-  border-radius: 0 !important; // 원형(50%) → 네모(0)
-
-  width: 200px !important;  // 기본값보다 크게
+  border-radius: 0 !important;
+  width: 200px !important;
   height: 200px !important;
   object-fit: cover !important;
+  object-position: center !important;
+}
+
+// 혹시 안 되면 이것도 추가
+.author__avatar {
+  width: 200px !important;
+  height: 200px !important;
 }
