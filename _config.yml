@@ -21,7 +21,7 @@ title                    : "Soomin Chung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Soomin Chung"
-description              : "An amazing website."
+description              : "Personal website of SoominChung"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Soomin Chung"
   avatar           : "./mine/soomin.jpg"
-  bio              : "Researcher in Medical AI, M.S. in Bioengineering (Seoul National University)"
+  bio              : "Researcher in Medical AI\nM.S. in Bioengineering (Seoul National University)"
   location         : "Seoul, South Korea"
   email            :
   links:
