@@ -14,7 +14,7 @@ Hello 🌿! I am a medical AI researcher passionate about addressing real-world 
 I am an M.S. student in Biomedical Engineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**.  
-By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data. 
+By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data.  
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.
 
 ## News
@@ -28,11 +28,11 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 **2025**
 - **A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study** [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) \\
 Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ (*co-first author) \\
-**<span class="journal-name">PLOS Medicine</span>** (SCIE, IF=10.5, JCR 2023 top 3.5%)
+**<span style="color: #2196F3;">PLOS Medicine</span>** (SCIE, IF=10.5, JCR 2023 top 3.5%)
 
 - **S3D: Sketch-Driven 3D Model Generation** [[paper]](https://arxiv.org/pdf/2505.04185) \\
 Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
-<span class="conference-name">GMCV Workshop at CVPR'25</span>
+**<span style="color: #4CAF50;">GMCV Workshop at CVPR'25</span>**
 
 - **Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study** [[paper]](https://journals.sagepub.com/doi/pdf/10.1177/20552076241311460) \\
 Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh (*co-first author) \\
