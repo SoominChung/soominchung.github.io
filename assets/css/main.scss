@@ -36,8 +36,8 @@ body {
   h6 { font-size: 0.9em; }
 }
 
-// 프로필 사진을 네모나게 변경
-// 더 구체적인 선택자로 강제 적용
+/* 프로필 사진 수정 - 더 강력한 선택자 사용 */
+.layout--single .author__avatar img,
 .sidebar .author__avatar img,
 .author__avatar img {
   border-radius: 0 !important;
@@ -45,10 +45,4 @@ body {
   height: 200px !important;
   object-fit: cover !important;
   object-position: center !important;
-}
-
-// 혹시 안 되면 이것도 추가
-.author__avatar {
-  width: 200px !important;
-  height: 200px !important;
 }
