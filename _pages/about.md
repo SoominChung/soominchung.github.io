@@ -75,6 +75,12 @@ Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im
 - **Research Intern**, Korea Institute of Science and Technology (KIST), Brain Science Institute (Sep 2020 - Feb 2021)
 - **Vice President**, Young Engineers Honor Society (YEHS) (Jan 2021 - Dec 2021)
 
+## Experience
+- **Research Intern**, [Seoul National University Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate) (Jan 2022 - Aug 2022)
+- **Data Analyst** (Freelancer), KCWI Inc. - Driving Safety in Vehicles (Mar 2021 - Feb 2022)
+- **Research Intern**, Korea Institute of Science and Technology (KIST), Brain Science Institute, [Im Lab](https://imvisionlab.com/), advised by [Prof. Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en) (Sep 2020 - Feb 2021)
+- **Vice President**, [Young Engineers Honor Society (YEHS)] (https://www.naekyehs.org/) (Jan 2021 - Dec 2021)
+
 ## Awards & Fellowships
 - **2nd Place**, SNU x Upstage LLM Project Hackathon (May 2024)
 - **Academic Excellence Scholarship**, Seoul National University (Sep 2022)
