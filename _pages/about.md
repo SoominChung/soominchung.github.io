@@ -20,7 +20,7 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 ## News
 
 - **Mar 2025**: [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
-- **Feb 2025**: Successfully completed 6 month visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025)
+- **Feb 2025**: Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
 
 
 ## Publications
