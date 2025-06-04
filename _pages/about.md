@@ -17,7 +17,8 @@ My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and C
 By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data.  
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.  
 
-I am always open to collaborations on projects that apply AI to solve real-world problems. Feel free to reach out to discuss research opportunities!
+I am always open to collaborations on projects that apply AI to solve real-world problems.  
+Feel free to reach out to discuss research opportunities!
 
 ## News
 
