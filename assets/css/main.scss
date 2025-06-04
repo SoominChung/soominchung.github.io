@@ -35,3 +35,8 @@ body {
   h5 { font-size: 1em; }
   h6 { font-size: 0.9em; }
 }
+
+// 프로필 사진을 네모나게 변경
+.author__avatar img {
+  border-radius: 0 !important; // 원형(50%) → 네모(0)
+}

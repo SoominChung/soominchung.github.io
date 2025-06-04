@@ -10,16 +10,20 @@ redirect_from:
 
 ## About Me
 
-Hello! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI. 
-I am an M.S. student in Biomedical Engineering at [Seoul National University Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
+Hello 🌿! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI.
+
+
+I am an M.S. student in Biomedical Engineering at Seoul National University [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**. 
+
+
 By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data. 
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.
 
 ## News
 
-- **Mar 2025**: [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop] (https://generative-vision.github.io/workshop-CVPR-25/) at CVPR 2025! I will present a poster at the conference. See you in Nashville🎸!
+- **Mar 2025**: [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop] (https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
 - **Feb 2025**: Successfully completed 6 month visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025)
 
 
@@ -76,7 +80,7 @@ Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im
 - **Vice President**, Young Engineers Honor Society (YEHS) (Jan 2021 - Dec 2021)
 
 ## Experience
-- **Research Intern**, [Seoul National University Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate) (Jan 2022 - Aug 2022)
+- **Research Intern**, Seoul National University [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate) (Jan 2022 - Aug 2022)
 - **Data Analyst** (Freelancer), KCWI Inc. - Driving Safety in Vehicles (Mar 2021 - Feb 2022)
 - **Research Intern**, Korea Institute of Science and Technology (KIST), Brain Science Institute, [Im Lab](https://imvisionlab.com/), advised by [Prof. Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en) (Sep 2020 - Feb 2021)
 - **Vice President**, [Young Engineers Honor Society (YEHS)] (https://www.naekyehs.org/) (Jan 2021 - Dec 2021)
