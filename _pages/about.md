@@ -28,7 +28,7 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 **2025**
 - **A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study** [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) \\
 Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ (*co-first author) \\
-**<span style="color: #2196F3;">PLOS Medicine</span>** (SCIE, IF=10.5, JCR 2023 top 3.5%)
+**<span style="color: #4CAF50;">PLOS Medicine</span>** (SCIE, IF=10.5, JCR 2023 top 3.5%)
 
 - **S3D: Sketch-Driven 3D Model Generation** [[paper]](https://arxiv.org/pdf/2505.04185) \\
 Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
@@ -36,7 +36,7 @@ Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
 
 - **Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study** [[paper]](https://journals.sagepub.com/doi/pdf/10.1177/20552076241311460) \\
 Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh (*co-first author) \\
-**Digital Health** (SCIE, IF=2.9)
+**<span style="color: #4CAF50;">Digital Health</span>** (SCIE, IF=2.9)
 
 - **Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction** [[paper]](https://dcollection.snu.ac.kr/public_resource/pdf/000000188630_20250604211924.pdf) \\
 **Soomin Chung** \\
@@ -45,26 +45,25 @@ Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dah
 **2024**
 - **Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients** [[paper]](https://www.nature.com/articles/s41746-024-01335-x) \\
 Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+ (*co-first author) \\
-**npj Digital Medicine** (SCIE, IF=15.2, JCR 2023 top 0.9%)
+**<span style="color: #4CAF50;">npj Digital Medicine</span>** (SCIE, IF=15.2, JCR 2023 top 0.9%)
 
 - **Method and Apparatus for Drug Adjustment for Delirium Prevention** \\
 Hyeonhoon Lee, **Soomin Chung**, Hong Yeul Lee \\
 **Korean Patent Application** 10-2023-0138995
 
 **2021-2022**
-- **Machine Learning Approaches as An Alternative to Human Psychophysical Tests of Prosthetic Vision** [[paper]]() \\
+- **Machine Learning Approaches as An Alternative to Human Psychophysical Tests of Prosthetic Vision** [[paper]](https://paperhost.org/proceedings/embs/EMBC21/files/2302.pdf) \\
 Na Min An, Hyeonhee Roh, **Soomin Jung**, Eun Ju Kim, Maesoon Im+ \\
-**IEEE EMBC** 2021
+**<span style="color: #4CAF50;">IEEE EMBC</span>**
 
-- **Neural information of artificial vision varies depending on the level of spiking heterogeneity across retinal ganglion cells** \\
+- **Neural information of artificial vision varies depending on the level of spiking heterogeneity across retinal ganglion cells** [[paper]](https://iovs.arvojournals.org/article.aspx?articleid=2776235) \\
 Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im+ \\
-**ARVO** 2021
+**<span style="color: #4CAF50;">ARVO</span>**
 
 ## Education
 - **Visiting Scholar**, Software and Societal Systems, **Carnegie Mellon University**, Aug 2024 - Feb 2025
   - Sponsored by Institute of Information & Communications Technology Planning & Evaluation (IITP)
 - **M.S.** in Biomedical Engineering, **Seoul National University**, Sep 2022 - Feb 2025
-  - Advisor: Prof. Kwangsoo Kim
   - GPA: 4.27/4.5
 - **B.S.** in Mechanical & Biomedical Engineering (Minor in Computer Engineering), **EWHA Womans University**, Mar 2018 - Aug 2022
   - GPA: 4.22/4.5

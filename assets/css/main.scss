@@ -42,16 +42,5 @@ body {
 
   width: 250px !important;  // 기본값보다 크게
   height: 250px !important;
-
-}
-
-// 저널/학회 이름 스타일링
-.journal-name {
-  color: #2196F3; // 블루 색상
-  font-weight: 600;
-}
-
-.conference-name {
-  color: #4CAF50; // 그린 색상  
-  font-weight: 600;
+  object-fit: cover !important;
 }
