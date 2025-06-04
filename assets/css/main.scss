@@ -8,7 +8,30 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+body {
+  font-size: 14px; // 기본 16px에서 14px로 축소
+}
 
-html {
-  font-size: 70%; 
+.page__content {
+  p, li, dl {
+    font-size: 0.9em; // 1em에서 0.9em으로 축소
+  }
+}
+
+.page__lead {
+  font-size: $type-size-5; // $type-size-4에서 한 단계 작게
+}
+
+// 제목들도 작게
+.page__title {
+  font-size: $type-size-2; // 필요에 따라 조정
+}
+
+.page__content {
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.4em; }
+  h3 { font-size: 1.2em; }
+  h4 { font-size: 1.1em; }
+  h5 { font-size: 1em; }
+  h6 { font-size: 0.9em; }
 }

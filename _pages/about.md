@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI. I am an M.S. student in Biomedical Engineering at [Seoul National University Biomedical Informatics (BMI) Lab](https://bmi.snu.ac.kr/), advised by [Prof. Kwangsoo Kim](). I recently completed a visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025).
+Hello! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI. I am an M.S. student in Biomedical Engineering at [Seoul National University Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate). I recently completed a visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025).
 
 My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**. By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data. 
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.
