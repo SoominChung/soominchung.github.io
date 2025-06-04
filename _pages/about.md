@@ -28,7 +28,7 @@ I am always open to collaborations on projects that apply AI to solve real-world
 
 **2025**
 - **A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study** [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) \\
-Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ (*co-first author) \\
+Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ **(*co-first author)** \\
 **<span style="color: #2196F3;">PLOS Medicine</span>** **(SCIE, IF=10.5, JCR 2023 top 3.5%)**
 
 - **S3D: Sketch-Driven 3D Model Generation** [[paper]](https://arxiv.org/pdf/2505.04185) \\
@@ -36,7 +36,7 @@ Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
 **<span style="color: #2196F3;">GMCV Workshop at CVPR'25</span>**
 
 - **Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study** [[paper]](https://journals.sagepub.com/doi/pdf/10.1177/20552076241311460) \\
-Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh (*co-first author) \\
+Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh **(*co-first author)** \\
 **<span style="color: #2196F3;">Digital Health</span>** (SCIE, IF=2.9)
 
 - **Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction** [[paper]](https://dcollection.snu.ac.kr/public_resource/pdf/000000188630_20250604211924.pdf) \\
@@ -45,7 +45,7 @@ Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dah
 
 **2024**
 - **Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients** [[paper]](https://www.nature.com/articles/s41746-024-01335-x) \\
-Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+ (*co-first author) \\
+Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+ **(*co-first author)** \\
 **<span style="color: #2196F3;">npj Digital Medicine</span>** **(SCIE, IF=15.2, JCR 2023 top 0.9%)**
 
 - **Method and Apparatus for Drug Adjustment for Delirium Prevention** \\
