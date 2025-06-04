@@ -19,7 +19,7 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 
 ## News
 
-- **Mar 2025**: [S3D] (https://arxiv.org/pdf/2505.04185) accepted to GMCV Workshop at CVPR 2025! I will present a poster at the conference. See you in Nashville🎸!
+- **Mar 2025**: [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop] (https://generative-vision.github.io/workshop-CVPR-25/) at CVPR 2025! I will present a poster at the conference. See you in Nashville🎸!
 - **Feb 2025**: Successfully completed 6 month visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025)
 
 
@@ -38,7 +38,7 @@ Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
 Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh (*co-first author) \\
 **Digital Health** (SCIE, IF=2.9)
 
-- **Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction** \\
+- **Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction** [[paper]] (https://dcollection.snu.ac.kr/public_resource/pdf/000000188630_20250604211924.pdf) \\
 **Soomin Chung** \\
 **M.S. Thesis**, Seoul National University
 
