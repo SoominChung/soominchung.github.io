@@ -16,6 +16,7 @@ I am an M.S. student in Biomedical Engineering at [Seoul National University](ht
 My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**.  
 By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data.  
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.  
+
 I am always open to collaborations on projects that apply AI to solve real-world problems. Feel free to reach out to discuss research opportunities!
 
 ## News
@@ -82,7 +83,3 @@ Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im
 - **8th Class Scholar**, Woonhae Scholarship Foundation (Jan 2021)
 - **Highest Academic Excellence Scholarship** (Top 2%), EWHA Womans University (Aug 2020)
 - **Academic Excellence Scholarship** (Top 6%), EWHA Womans University (Feb 2020, Feb 2021)
-
-
-
-*I am always interested in collaborating on projects that apply AI to solve real-world problems, particularly in healthcare and beyond. Feel free to reach out if you'd like to discuss research opportunities or potential collaborations!*
