@@ -28,7 +28,7 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 **2025**
 - **A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study** [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) \\
 Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ (*co-first author) \\
-**<span style="color: #2196F3;">PLOS Medicine (SCIE, IF=10.5, JCR 2023 top 3.5%)</span>**
+**<span style="color: #2196F3;">PLOS Medicine</span>** **(SCIE, IF=10.5, JCR 2023 top 3.5%)**
 
 - **S3D: Sketch-Driven 3D Model Generation** [[paper]](https://arxiv.org/pdf/2505.04185) \\
 Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
@@ -45,7 +45,7 @@ Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dah
 **2024**
 - **Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients** [[paper]](https://www.nature.com/articles/s41746-024-01335-x) \\
 Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+ (*co-first author) \\
-**<span style="color: #2196F3;">npj Digital Medicine (SCIE, IF=15.2, JCR 2023 top 0.9%)</span>**
+**<span style="color: #2196F3;">npj Digital Medicine</span>** **(SCIE, IF=15.2, JCR 2023 top 0.9%)**
 
 - **Method and Apparatus for Drug Adjustment for Delirium Prevention** \\
 Hyeonhoon Lee, **Soomin Chung**, Hong Yeul Lee \\
