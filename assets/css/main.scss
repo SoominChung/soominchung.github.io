@@ -45,3 +45,14 @@ body {
   object-fit: cover !important;  // 비율 유지하면서 크롭
 
 }
+
+// 저널/학회 이름 스타일링
+.journal-name {
+  color: #2196F3; // 블루 색상
+  font-weight: 600;
+}
+
+.conference-name {
+  color: #4CAF50; // 그린 색상  
+  font-weight: 600;
+}

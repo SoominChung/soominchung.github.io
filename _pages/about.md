@@ -28,17 +28,17 @@ Beyond healthcare, my recent work in 3D model generation demonstrates my interes
 **2025**
 - **A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study** [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) \\
 Sehoon Park\*, **Soomin Chung\***, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+ (*co-first author) \\
-**PLOS Medicine** (SCIE, IF=10.5, JCR 2023 top 3.5%)
+<span class="journal-name">PLOS Medicine</span> (SCIE, IF=10.5, JCR 2023 top 3.5%)
 
 - **S3D: Sketch-Driven 3D Model Generation** [[paper]](https://arxiv.org/pdf/2505.04185) \\
 Hail Song, Wonsik Shin, Naeun Lee, **Soomin Chung**, Nojun Kwak, Woontack Woo \\
-**GMCV Workshop at CVPR'25**
+<span class="conference-name">GMCV Workshop at CVPR'25</span>
 
 - **Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study** [[paper]](https://journals.sagepub.com/doi/pdf/10.1177/20552076241311460) \\
 Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh (*co-first author) \\
 **Digital Health** (SCIE, IF=2.9)
 
-- **Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction** [[paper]] (https://dcollection.snu.ac.kr/public_resource/pdf/000000188630_20250604211924.pdf) \\
+- **Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction** [[paper]](https://dcollection.snu.ac.kr/public_resource/pdf/000000188630_20250604211924.pdf) \\
 **Soomin Chung** \\
 **M.S. Thesis**, Seoul National University
 
@@ -49,7 +49,7 @@ Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Le
 
 - **Method and Apparatus for Drug Adjustment for Delirium Prevention** \\
 Hyeonhoon Lee, **Soomin Chung**, Hong Yeul Lee \\
-Korean Patent Application 10-2023-0138995
+**Korean Patent Application** 10-2023-0138995
 
 **2021-2022**
 - **Machine Learning Approaches as An Alternative to Human Psychophysical Tests of Prosthetic Vision** [[paper]]() \\
@@ -82,6 +82,7 @@ Hyeonhee Roh, Eunju Kim, **Soo Min Chung**, Joon Ho Kang, Taegon Kim, Maesoon Im
 - **8th Class Scholar**, Woonhae Scholarship Foundation (Jan 2021)
 - **Highest Academic Excellence Scholarship** (Top 2%), EWHA Womans University (Aug 2020)
 - **Academic Excellence Scholarship** (Top 6%), EWHA Womans University (Feb 2020, Feb 2021)
+
 
 
 *I am always interested in collaborating on projects that apply AI to solve real-world problems, particularly in healthcare and beyond. Feel free to reach out if you'd like to discuss research opportunities or potential collaborations!*
