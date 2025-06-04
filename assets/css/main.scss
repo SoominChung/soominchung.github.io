@@ -40,13 +40,8 @@ body {
 .author__avatar img {
   border-radius: 0 !important; // 원형(50%) → 네모(0)
 
-  width: 200px !important;  // 기본값보다 크게
-  height: 200px !important;
-  
-  img {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover;  // 비율 유지하면서 크롭
-    border-radius: 0 !important;  // 네모 모양 유지 (원한다면)
-  }  
+  width: 250px !important;  // 기본값보다 크게
+  height: 250px !important;
+  object-fit: cover !important;  // 비율 유지하면서 크롭
+
 }
