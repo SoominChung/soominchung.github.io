@@ -7,3 +7,8 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// 전체적으로 90% 크기로 축소
+html {
+  font-size: 90%; // 기본 100%에서 90%로
+}
