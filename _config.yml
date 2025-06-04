@@ -115,9 +115,7 @@ analytics:
 author:
   name             : "Soomin Chung"
   avatar           : "./mine/soomin2.jpg"
-  bio              : |
-    Researcher in Medical AI
-    M.S. in Bioengineering (Seoul National University)
+  bio              : "Researcher in Medical AI<br>M.S. in Bioengineering (Seoul National University)"
   location         : "Seoul, South Korea"
   email            :
   links:
