@@ -1,18 +1,26 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
+excerpt: "Personal website of SoominChung"
 author_profile: true
-classes: wide
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI. I am an M.S. student in Biomedical Engineering at [Seoul National University Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate). I recently completed a visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025).
+## About Me
 
-My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**. By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data. 
+Hello! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI. 
+I am an M.S. student in Biomedical Engineering at [Seoul National University Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
+
+My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**. 
+By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data. 
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.
+
+## News
+
+- **Mar 2025**: [S3D] (https://arxiv.org/pdf/2505.04185) accepted to GMCV Workshop at CVPR 2025! I will present a poster at the conference. See you in Nashville🎸!
+- **Feb 2025**: Successfully completed 6 month visiting scholar program at Carnegie Mellon University's Software and Societal Systems department (Aug 2024 - Feb 2025)
 
 
 ## Publications
@@ -39,7 +47,6 @@ Soonil Kwon\*, **Soomin Chung\***, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dah
 Hong Yeul Lee\*, **Soomin Chung\***, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+ (*co-first author) \\
 **npj Digital Medicine** (SCIE, IF=15.2, JCR 2023 top 0.9%)
 
-**Patents**
 - **Method and Apparatus for Drug Adjustment for Delirium Prevention** \\
 Hyeonhoon Lee, **Soomin Chung**, Hong Yeul Lee \\
 Korean Patent Application 10-2023-0138995
