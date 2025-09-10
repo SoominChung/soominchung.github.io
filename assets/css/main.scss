@@ -13,10 +13,10 @@ $link-color-hover: #0b63ce;    // hover도 같은 톤
 
 // 3) 내 규칙: import 이후에 (덮어쓰기)
 //body { font-size: 14px; }
-body { font-size: 0.9em; }
+body { font-size: 0.85em; }
 
 .page__content {
-  p, li, dl { font-size: 0.9em; }
+  p, li, dl { font-size: 0.85em; }
 
   /* 섹션 제목(About Me, News 등) 색/굵기 */
   h1, h2, h3 { font-size: 1.2em !important; color: #003366; font-weight: 700; }
@@ -85,7 +85,7 @@ body { font-size: 0.9em; }
 .author__urls {               /* ul */
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 10px;
   padding-left: 0;
   margin-top: 8px;
 }
@@ -102,6 +102,6 @@ body { font-size: 0.9em; }
 }
 /* 아이콘 크기 조금 키우기 */
 .author__urls i {
-  font-size: 1.0rem;          /* 원하면 1.4rem 등으로 조절 */
+  font-size: 0.8rem;          /* 원하면 1.4rem 등으로 조절 */
   line-height: 1;
 }
