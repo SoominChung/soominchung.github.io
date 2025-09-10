@@ -1,0 +1,33 @@
+{% assign groups = site.data.publications %}
+<div class="pubs">
+  {% for g in groups %}
+    <h3 class="pub-year">{{ g.year }}</h3>
+    <div class="pub-group">
+      {% for p in g.items %}
+      <div class="pub-item">
+        {% if p.thumb %}
+          <div class="pub-thumb">
+            <img src="{{ p.thumb | relative_url }}" alt="thumbnail for {{ p.title }}">
+          </div>
+        {% endif %}
+
+        <div class="pub-body">
+          <div class="pub-title"><strong>{{ p.title }}</strong></div>
+          <div class="pub-authors">{{ p.authors | markdownify }}</div>
+          {% if p.venue_html %}
+            <div class="pub-venue">{{ p.venue_html }}</div>
+          {% endif %}
+          {% if p.links %}
+          <div class="pub-links">
+            {% if p.links.paper %}<a class="btn btn--primary btn--xs" href="{{ p.links.paper }}" target="_blank" rel="noopener">paper</a>{% endif %}
+            {% if p.links.code %}<a class="btn btn--warning btn--xs" href="{{ p.links.code }}" target="_blank" rel="noopener">code</a>{% endif %}
+            {% if p.links.video %}<a class="btn btn--success btn--xs" href="{{ p.links.video }}" target="_blank" rel="noopener">video</a>{% endif %}
+            {% if p.links.web %}<a class="btn btn--inverse btn--xs" href="{{ p.links.web }}" target="_blank" rel="noopener">web page</a>{% endif %}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>
