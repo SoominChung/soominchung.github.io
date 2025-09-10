@@ -26,7 +26,7 @@ Feel free to reach out to discuss research opportunities!
 - **Feb 2025**: Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
 
 
-## Publications
+## Selected Publications
 {% include publications.html %}
 
 ## Education

@@ -77,25 +77,31 @@ body {
 @media (max-width: 720px) { .pub-item { grid-template-columns: 1fr; } }
 
 
-/* 섹션 제목 색상 (About Me, Research Interests 등) */
+/* 섹션 제목 색상 강제 (About Me, Research Interests 등) */
+.layout--single .page__content h2,
+.layout--single .page__content h3,
 .page__content h2,
 .page__content h3 {
-  color: #003366;       /* 진한 네이비 블루 */
-  font-weight: 700;     /* 조금 더 굵게 */
+  color: #003366 !important;  /* 진한 네이비 */
+  font-weight: 700;
 }
 
-/* 콘텐츠 영역 링크: 진한색 + semi-bold, 기본 밑줄 제거 */
-.page__content a {
-  color: #0881fa;
-  font-weight: 600;      /* semi-bold */
-  text-decoration: none; /* 기본 밑줄 제거 */
+/* 콘텐츠 영역 링크: 버튼 제외 전체에 적용 */
+.page__content a:not(.btn),
+.page__content p a:not(.btn),
+.page__content li a:not(.btn),
+.page__content .archive__item-title a {
+  color: #0881fa !important;  /* 원하는 파랑 */
+  font-weight: 600 !important; /* 굵게 */
+  text-decoration: none;       /* 밑줄 기본 제거 */
 }
 
-/* hover/포커스 시 밑줄로 피드백 */
-.page__content a:hover,
-.page__content a:focus {
+/* hover/포커스 시 피드백 */
+.page__content a:not(.btn):hover,
+.page__content a:not(.btn):focus {
   text-decoration: underline;
 }
+
 
 /* 썸네일 없는 항목: 한 열로 확장 */
 .pub-item.no-thumb {
