@@ -12,13 +12,14 @@ $link-color-hover: #0b63ce;    // hover도 같은 톤
 @import "minimal-mistakes";
 
 // 3) 내 규칙: import 이후에 (덮어쓰기)
-body { font-size: 14px; }
+//body { font-size: 14px; }
+body { font-size: 1.1em; }
 
 .page__content {
-  p, li, dl { font-size: 1.0em; }
+  p, li, dl { font-size: 1.1em; }
 
   /* 섹션 제목(About Me, News 등) 색/굵기 */
-  h1, h2, h3 { font-size: 2.3em !important; color: #003366; font-weight: 700; }
+  h1, h2, h3 { font-size: 1.2em !important; color: #003366; font-weight: 700; }
 
   /* 링크: 밑줄 제거 + 굵게 + 파랑 */
   a:not(.btn),
@@ -50,7 +51,7 @@ body { font-size: 14px; }
 
 /* override for profile name */
 .sidebar .author__name {
-  font-size: 2em !important;    /* 원하는 크기 */
+  font-size: 1.2em !important;    /* 원하는 크기 */
   color: #003366 !important;    /* 원하는 남색 */
   font-weight: 700 !important;  /* 굵게 */
 }
@@ -78,4 +79,29 @@ body { font-size: 14px; }
 /* (보수용) 혹시 상단 패딩이 있는 스킨일 경우도 커버 */
 .layout--single .page__content {
   padding-top: 0 !important;
+}
+
+/* 사이드바: 소셜 링크 아이콘만 보이게 + 가로 배치 */
+.author__urls {               /* ul */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-left: 0;
+  margin-top: 8px;
+}
+.author__urls li {            /* li 점 없애기 */
+  list-style: none;
+}
+.author__urls a {
+  display: inline-flex;
+  align-items: center;
+}
+/* 라벨 텍스트 숨김 */
+.author__urls .label {
+  display: none !important;
+}
+/* 아이콘 크기 조금 키우기 */
+.author__urls i {
+  font-size: 1.2rem;          /* 원하면 1.4rem 등으로 조절 */
+  line-height: 1;
 }
