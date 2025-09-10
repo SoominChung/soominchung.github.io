@@ -41,15 +41,15 @@ Feel free to reach out to discuss research opportunities!
 {% include publications.html %}
 
 ## Experience
-- [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/) **Research Intern**, Seoul National University
+- [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/) Research Intern, Seoul National University
   - Advisor: [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate)
   - Jan 2022 - Aug 2022
--  Driving Safety Evaluation Division **Data Analyst**, KCWI Inc.
+-  Driving Safety Evaluation Division Data Analyst, KCWI Inc.
   - Mar 2021 - Feb 2022
-- [Im Lab](https://imvisionlab.com/) **Research Intern**, Korea Institute of Science and Technology (KIST), Brain Science Institute
+- [Im Lab](https://imvisionlab.com/) Research Intern, Korea Institute of Science and Technology (KIST), Brain Science Institute
   - Advisor: [Prof. Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en)
   - Sep 2020 - Feb 2021
-  
+
 ## Awards & Honors
 - **2nd Place**, SNU x Upstage LLM Project Hackathon (May 2024)
 - **Silver Award**, Engineering Capstone Design Contest, EWHA Womans University (Dec 2021)
