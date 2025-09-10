@@ -13,7 +13,7 @@ redirect_from:
 Hello 🌿! I am a medical AI researcher passionate about addressing real-world clinical challenges through AI.  
 I am an M.S. student in Biomedical Engineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
 
-My research focuses on **Medical AI, Deep Learning, Bio-signal Processing, and Computer Vision**.  
+My research focuses on **Medical AI, AI4Health, Multi-modal learning, and Computer Vision**.  
 By applying tailored AI approaches to specific clinical problems, I enhance medical decision-making and create actionable insights from complex clinical data.  
 Beyond healthcare, my recent work in 3D model generation demonstrates my interest in exploring diverse research domains where AI can create meaningful impact.  
 
@@ -30,11 +30,15 @@ Feel free to reach out to discuss research opportunities!
 {% include publications.html %}
 
 ## Education
-- **Visiting Scholar**, Software and Societal Systems, **Carnegie Mellon University**, Aug 2024 - Feb 2025
-  - Sponsored by Institute of Information & Communications Technology Planning & Evaluation (IITP)
-- **M.S.** in Biomedical Engineering, **Seoul National University**, Sep 2022 - Feb 2025
+- **Carnegie Mellon University** (Aug 2024 - Feb 2025) 
+  - **Visiting Scholar**, School of Computer Science, Software and Societal Systems
+
+- **Seoul National University**, (Sep 2022 - Feb 2025)
+  - **M.S.** in Biomedical Engineering
   - GPA: 4.27/4.5
-- **B.S.** in Mechanical & Biomedical Engineering (Minor in Computer Engineering), **EWHA Womans University**, Mar 2018 - Aug 2022
+
+- **EWHA Womans University** (Mar 2018 - Aug 2022)
+  - **B.S.** in Mechanical & Biomedical Engineering (Minor in Computer Engineering)
   - GPA: 4.22/4.5
 
 ## Experience

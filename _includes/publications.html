@@ -4,7 +4,7 @@
     <h3 class="pub-year">{{ g.year }}</h3>
     <div class="pub-group">
       {% for p in g.items %}
-      <div class="pub-item">
+      <div class="pub-item{% unless p.thumb %} no-thumb{% endunless %}">
         {% if p.thumb %}
           <div class="pub-thumb">
             <img src="{{ p.thumb | relative_url }}" alt="thumbnail for {{ p.title }}">

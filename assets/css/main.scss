@@ -75,3 +75,29 @@ body {
 .pub-authors, .pub-venue { color: #555; }
 .pub-links { margin-top: .4rem; display: flex; flex-wrap: wrap; gap: .4rem; }
 @media (max-width: 720px) { .pub-item { grid-template-columns: 1fr; } }
+
+
+/* 섹션 제목 색상 (About Me, Research Interests 등) */
+.page__content h2,
+.page__content h3 {
+  color: #003366;       /* 진한 네이비 블루 */
+  font-weight: 700;     /* 조금 더 굵게 */
+}
+
+/* 콘텐츠 영역 링크: 진한색 + semi-bold, 기본 밑줄 제거 */
+.page__content a {
+  color: #0881fa;
+  font-weight: 600;      /* semi-bold */
+  text-decoration: none; /* 기본 밑줄 제거 */
+}
+
+/* hover/포커스 시 밑줄로 피드백 */
+.page__content a:hover,
+.page__content a:focus {
+  text-decoration: underline;
+}
+
+/* 썸네일 없는 항목: 한 열로 확장 */
+.pub-item.no-thumb {
+  grid-template-columns: 1fr;
+}
