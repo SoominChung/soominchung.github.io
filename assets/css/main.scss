@@ -69,3 +69,13 @@ body { font-size: 14px; }
 .pub-authors, .pub-venue { color: #555; }
 .pub-links { margin-top: .4rem; display: flex; flex-wrap: wrap; gap: .4rem; }
 @media (max-width: 720px) { .pub-item { grid-template-columns: 1fr; } }
+
+/* 첫 섹션 제목(About Me) 위 여백 제거 → 프로필 상단과 수평 맞춤 */
+.page__content > h2:first-of-type {
+  margin-top: 0 !important;
+}
+
+/* (보수용) 혹시 상단 패딩이 있는 스킨일 경우도 커버 */
+.layout--single .page__content {
+  padding-top: 0 !important;
+}
