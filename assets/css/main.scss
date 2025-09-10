@@ -18,7 +18,7 @@ body { font-size: 14px; }
   p, li, dl { font-size: 1.0em; }
 
   /* 섹션 제목(About Me, News 등) 색/굵기 */
-  h1, h2, h3 { font-size: 2.5em !important; color: #003366; font-weight: 700; }
+  h1, h2, h3 { font-size: 3.0em !important; color: #003366; font-weight: 700; }
 
   /* 링크: 밑줄 제거 + 굵게 + 파랑 */
   a:not(.btn),
@@ -47,6 +47,14 @@ body { font-size: 14px; }
 /* 사이드바 불투명 */
 .sidebar { opacity: 1 !important; }
 .sidebar:hover { opacity: 1 !important; }
+
+/* override for profile name */
+.sidebar .author__name {
+  font-size: 2em !important;    /* 원하는 크기 */
+  color: #003366 !important;    /* 원하는 남색 */
+  font-weight: 700 !important;  /* 굵게 */
+}
+
 
 /* Publications 그리드 */
 .pubs { display: grid; gap: 1.25rem; }
