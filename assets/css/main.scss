@@ -13,10 +13,10 @@ $link-color-hover: #0b63ce;    // hover도 같은 톤
 
 // 3) 내 규칙: import 이후에 (덮어쓰기)
 //body { font-size: 14px; }
-body { font-size: 1.0em; }
+body { font-size: 0.9em; }
 
 .page__content {
-  p, li, dl { font-size: 1.0em; }
+  p, li, dl { font-size: 0.9em; }
 
   /* 섹션 제목(About Me, News 등) 색/굵기 */
   h1, h2, h3 { font-size: 1.2em !important; color: #003366; font-weight: 700; }
