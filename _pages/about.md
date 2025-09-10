@@ -41,11 +41,6 @@ Feel free to reach out to discuss research opportunities!
   - **B.S.** in Mechanical & Biomedical Engineering (Minor in Computer Engineering)
   - GPA: 4.22/4.5
 
-## Experience
-- **Research Intern**, Seoul National University [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate) (Jan 2022 - Aug 2022)
-- **Data Analyst** (Freelancer), KCWI Inc. - Driving Safety in Vehicles (Mar 2021 - Feb 2022)
-- **Research Intern**, Korea Institute of Science and Technology (KIST), Brain Science Institute, [Im Lab](https://imvisionlab.com/), advised by [Prof. Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en) (Sep 2020 - Feb 2021)
-
 ## Awards & Honors
 - **2nd Place**, SNU x Upstage LLM Project Hackathon (May 2024)
 - **Silver Award**, Engineering Capstone Design Contest, EWHA Womans University (Dec 2021)
@@ -57,6 +52,12 @@ Feel free to reach out to discuss research opportunities!
 - **8th Cohort Scholar**, [Woonhae Scholarship Foundation](https://woonhaefoundation.org/kor/main/main.html) (Jan 2021)
 - **Highest Academic Excellence Scholarship** (Top 2%), EWHA Womans University (Aug 2020)
 - **Academic Excellence Scholarship** (Top 6%), EWHA Womans University (Feb 2020)
+
+## Experience
+- **Research Intern**, Seoul National University [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate) (Jan 2022 - Aug 2022)
+- **Data Analyst** (Freelancer), KCWI Inc. - Driving Safety in Vehicles (Mar 2021 - Feb 2022)
+- **Research Intern**, Korea Institute of Science and Technology (KIST), Brain Science Institute, [Im Lab](https://imvisionlab.com/), advised by [Prof. Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en) (Sep 2020 - Feb 2021)
+
 
 ## Leadership & Service
 - **Data Lead**, SNUH Medical AI Challenge, Organized CDM AI Challenge: Predicting Hypoxemia, 200+ participants (Mar 2024 - Apr 2024)

@@ -1,7 +1,7 @@
 - year: 2025
   items:
     - title: "A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study"
-      authors: "<span style='color:#2196F3;'>(co-first author)</span> Sehoon Park*, **Soomin Chung**, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+"
+      authors: "<span style='color:#0881fa;'>(co-first author)</span> Sehoon Park*, **Soomin Chung**, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+"
       venue_html: "<span style='color:#0881fa;'><b>PLOS Medicine</b></span> (SCIE, <span style='color:#f01d24;'>IF=10.5, JCR 2023 top 3.5%</span>)"
       links:
         paper: "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566"
@@ -15,7 +15,7 @@
       thumb: "/mine/S3D.png"
 
     - title: "Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study"
-      authors: "<span style='color:#2196F3;'>(co-first author)</span> Soonil Kwon, **Soomin Chung**, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh"
+      authors: "<span style='color:#0881fa;'>(co-first author)</span> Soonil Kwon, **Soomin Chung**, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh"
       venue_html: "<span style='color:#0881fa;'><b>Digital Health</b></span> (SCIE, IF=2.9)"
       links:
         paper: "https://journals.sagepub.com/doi/pdf/10.1177/20552076241311460"
@@ -31,7 +31,7 @@
 - year: 2024
   items:
     - title: "Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients"
-      authors: "<span style='color:#2196F3;'>(co-first author)</span> Hong Yeul Lee*, **Soomin Chung**, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+"
+      authors: "<span style='color:#0881fa;'>(co-first author)</span> Hong Yeul Lee*, **Soomin Chung**, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+"
       venue_html: "<span style='color:#0881fa;'><b>npj Digital Medicine</b></span> (SCIE, <span style='color:#f01d24;'>IF=15.2, JCR 2023 top 0.9%</span>)"
       links:
         paper: "https://www.nature.com/articles/s41746-024-01335-x"
