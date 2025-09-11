@@ -13,10 +13,10 @@ $link-color-hover: #0b63ce;    // hover도 같은 톤
 
 // 3) 내 규칙: import 이후에 (덮어쓰기)
 //body { font-size: 14px; }
-body { font-size: 0.85em; }
+body { font-size: 0.9em; }
 
 .page__content {
-  p, li, dl { font-size: 0.85em; }
+  p, li, dl { font-size: 0.9em; }
 
   /* 섹션 제목(About Me, News 등) 색/굵기 */
   h1, h2, h3 { font-size: 1.2em !important; color: #003366; font-weight: 700; }
@@ -66,9 +66,9 @@ body { font-size: 0.85em; }
   gap: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee;
 }
 .pub-thumb img { width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,.06); }
-.pub-title { margin-bottom: .25rem; }
+.pub-title { margin-bottom: .25rem; font-size: 0.95em !important;}
 .pub-authors, .pub-venue { color: #555; }
-.pub-links { margin-top: .4rem; display: flex; flex-wrap: wrap; gap: .4rem; }
+.pub-links { margin-top: .4rem; display: flex; flex-wrap: wrap; gap: .4rem; font-size: 0.85em !important; }
 @media (max-width: 720px) { .pub-item { grid-template-columns: 1fr; } }
 
 /* 첫 섹션 제목(About Me) 위 여백 제거 → 프로필 상단과 수평 맞춤 */
