@@ -105,3 +105,12 @@ body { font-size: 0.9em; }
   font-size: 0.8rem;          /* 원하면 1.4rem 등으로 조절 */
   line-height: 1;
 }
+
+/* location만 첫 줄 전부 차지 + 항상 맨 앞에 오게 */
+.author__urls li.author__location,
+.author__location {           /* 테마/버전 차이 커버 */
+  display: block;
+  flex-basis: 100%;           /* 한 줄 전체 폭 사용 = 줄바꿈 효과 */
+  order: -1;                  /* DOM 순서와 무관하게 제일 앞줄로 */
+  margin-bottom: 4px;
+}
