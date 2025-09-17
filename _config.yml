@@ -1,40 +1,35 @@
 # Basic Information 
-title: Your Name
-position: Your Position
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: example (at) mpi-inf.mpg.de
+title: Soomin Chung
+position: M.S. Graduate in Biomedical Engineering
+affiliation: Seoul National University
+affiliation_link: https://bioeng.snu.ac.kr/en/
+email: soomin.chung.9910@gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: minimal light
-canonical: https://minimal-light-theme-mpi-inf.yliu.me/
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Soomin Chung, Medical AI, Multimodal Learning, Clinical Data, Deep Learning, EHR, ECG, Bio-singal
+canonical: https://soominchung.github.io/
+description: Personal homepage of Soomin Chung – Researcher in AI4Health.
 
 # The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+enable_mpi_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=0PojgyMAAAAJ&hl=ko
+cv_link: assets/files/SoominChung_CV.pdf
+github_link: https://github.com/SoominChung
+linkedin: https://www.linkedin.com/in/soomin-chung-123456789/
+#twitter: https://twitter.com/
 
 # Images 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/soomin2.png
+favicon: ./assets/img/leaf.png
+favicon_dark: ./assets/img/leaf.png
 
 # Footnotes
 enable_footnote: true
-
-# General Data Protection Regulation (GDPR) information
-# If you don't need to add the GDPR information, you may remove the following lines.
-imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/username
-data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/username?lang=en
 
 # The following files will be removed from the generated website.
 exclude:
