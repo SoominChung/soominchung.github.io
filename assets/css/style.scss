@@ -2,3 +2,21 @@
 ---
 
 @import "minimal-light";
+
+/* 링크 색상을 파란색으로 변경 - 파일 맨 끝에 추가 */
+a {
+  color: #1e3a8a !important;
+}
+
+a:hover {
+  color: #1d4ed8 !important;
+}
+
+/* autocolor 클래스도 같이 변경 */
+autocolor {
+  color: #1e3a8a !important;
+}
+
+autocolor:hover {
+  color: #1d4ed8 !important;
+}

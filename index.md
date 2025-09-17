@@ -5,8 +5,11 @@ layout: homepage
 ## About Me
 
 Hello! 🌿
+
 I am a medical AI researcher with an M.S. in Biomedical Engineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
+
 I have conducted research developing AI models to address diverse clinical problems using hospital data, including Electronic Medical Records (EMR), vital signs, Electrocardiography (ECG), and Electromyography (EMG).
+
 Looking ahead, I aim to integrate multi-modal data generated across the patient’s life course—such as clinical records, medical imaging, biosignals, and EMR—to advance personalized healthcare.
 
 ## Research Interests
@@ -35,20 +38,19 @@ Looking ahead, I aim to integrate multi-modal data generated across the patient�
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Experience
-- [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/) Seoul National University
+- [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), Seoul National University
   - Advisor: [Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate)
   - Jan 2022 - Feb 2025
 
--  Driving Safety Evaluation Division Data Analyst, KCWI Inc.
+- Data Analyst, Driving Safety Evaluation Division, KCWI Inc.
     - Feb 2021 - Feb 2022
 
-- [Im vision Lab](https://imvisionlab.com/), Korea Institute of Science and Technology (KIST), Brain Science Institute
+- [Im vision Lab](https://imvisionlab.com/), Brain Science Institute, Korea Institute of Science and Technology (KIST)
   - Advisor: [Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en)
   - Sep 2020 - Feb 2021
 
 ## Awards & Fellowships
 - **Carnegie Mellon University AI Intensive Training Program Fellowship**, [Institute of Information & Communications Technology Planning & Evaluation (IITP)](https://www.iitp.kr/en/main.it) (Aug 2024)
-    - Selected as one of 30 fellows nationwide; full support of tuition and living expenses
 - **2nd Place**, SNU x Upstage LLM Project Hackathon (May 2024)
 - **Academic Excellence Scholarship**, Seoul National University (Sep 2022)
 - **Silver Award**, Engineering Capstone Design Contest, EWHA Womans University (Dec 2021)  
@@ -62,4 +64,3 @@ Looking ahead, I aim to integrate multi-modal data generated across the patient�
     - 200+ participants
 - **Vice President**, [Young Engineers Honor Society (YEHS)](https://www.naekyehs.org/), National Academy of Engineering of Korea (Jan 2021 - Dec 2021)
 - [Young Engineers Honor Society (YEHS)](https://www.naekyehs.org/), National Academy of Engineering of Korea (Aug 2019 - Present)
-    - Selected as one of 3 distinguished EWHA Univ. students 
