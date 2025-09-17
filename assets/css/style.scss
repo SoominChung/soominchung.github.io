@@ -3,7 +3,7 @@
 
 @import "minimal-light";
 
-/* 링크 색상을 파란색으로 변경 - 파일 맨 끝에 추가 */
+/* 라이트 모드 링크 색상 */
 a {
   color: #1e3a8a !important;
 }
@@ -12,11 +12,29 @@ a:hover {
   color: #1d4ed8 !important;
 }
 
-/* autocolor 클래스도 같이 변경 */
 autocolor {
   color: #1e3a8a !important;
 }
 
 autocolor:hover {
   color: #1d4ed8 !important;
+}
+
+/* 다크 모드 링크 색상 - 더 밝은 파란색 */
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #60a5fa !important; /* 밝은 파란색 */
+  }
+
+  a:hover {
+    color: #93c5fd !important; /* 더 밝은 파란색 */
+  }
+
+  autocolor {
+    color: #60a5fa !important;
+  }
+
+  autocolor:hover {
+    color: #93c5fd !important;
+  }
 }
