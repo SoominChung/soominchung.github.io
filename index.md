@@ -19,6 +19,47 @@ Looking ahead, I aim to integrate multi-modal data generated across the patientâ
 - **[Mar. 2025]** [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville ðŸŽ¸!
 - **[Feb. 2025]** Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
 
-{% include_relative _includes/publications.md %}
+## Education
+- **Carnegie Mellon University** (Aug 2024 - Feb 2025) 
+  - **Visiting Scholar**, School of Computer Science, Software and Societal Systems
 
-{% include_relative _includes/services.md %}
+- **Seoul National University**, (Sep 2022 - Feb 2025)
+  - **M.S.** in Biomedical Engineering
+  - GPA: 4.27/4.5
+
+- **EWHA Womans University** (Mar 2018 - Aug 2022)
+  - **B.S.** in Mechanical & Biomedical Engineering (Minor in Computer Engineering)
+  - GPA: 4.22/4.5
+
+{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/services.md %} -->
+
+## Experience
+- [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/) Seoul National University
+  - Advisor: [Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate)
+  - Jan 2022 - Feb 2025
+
+-  Driving Safety Evaluation Division Data Analyst, KCWI Inc.
+    - Feb 2021 - Feb 2022
+
+- [Im vision Lab](https://imvisionlab.com/), Korea Institute of Science and Technology (KIST), Brain Science Institute
+  - Advisor: [Maesoon Im](https://scholar.google.com/citations?user=jidhBw0AAAAJ&hl=en)
+  - Sep 2020 - Feb 2021
+
+## Awards & Fellowships
+- **Carnegie Mellon University AI Intensive Training Program Fellowship**, [Institute of Information & Communications Technology Planning & Evaluation (IITP)](https://www.iitp.kr/en/main.it) (Aug 2024)
+    - Selected as one of 30 fellows nationwide; full support of tuition and living expenses
+- **2nd Place**, SNU x Upstage LLM Project Hackathon (May 2024)
+- **Academic Excellence Scholarship**, Seoul National University (Sep 2022)
+- **Silver Award**, Engineering Capstone Design Contest, EWHA Womans University (Dec 2021)  
+- **Academic Excellence Scholarship** (Top 6%), EWHA Womans University (Feb 2021)
+- **8th Cohort Scholar**, [Woonhae Scholarship Foundation](https://woonhaefoundation.org/kor/main/main.html) (Jan 2021)
+- **Highest Academic Excellence Scholarship** (Top 2%), EWHA Womans University (Aug 2020)
+- **Academic Excellence Scholarship** (Top 6%), EWHA Womans University (Feb 2020)
+
+## Leadership & Service
+- **Organizing Committee Data Lead**, [CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/challenge/21/info/overview), Seoul National University Hospital (Mar 2024 - Apr 2024)
+    - 200+ participants
+- **Vice President**, [Young Engineers Honor Society (YEHS)](https://www.naekyehs.org/), National Academy of Engineering of Korea (Jan 2021 - Dec 2021)
+- [Young Engineers Honor Society (YEHS)](https://www.naekyehs.org/), National Academy of Engineering of Korea (Aug 2019 - Present)
+    - Selected as one of 3 distinguished EWHA Univ. students 
