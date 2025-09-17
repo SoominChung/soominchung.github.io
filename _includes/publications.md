@@ -58,7 +58,7 @@
     <abbr class="badge">M.S. Thesis</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://dcollection.snu.ac.kr/public_resource/pdf/000000188630_20250604211924.pdf">Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction</a></div>
+    <div class="title"><a href="assets/files/master_thesis.pdf">Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction</a></div>
     <div class="author"><strong>Soomin Chung</strong></div>
     <div class="periodical"><em>M.S. Thesis, Seoul National University, 2025.</em></div>
   </div>
