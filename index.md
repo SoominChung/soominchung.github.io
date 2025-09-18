@@ -60,6 +60,6 @@ Looking ahead, I aim to integrate multi-modal data generated across the patientâ
 - **Organizing Committee Data Lead**, [CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/challenge/21/info/overview), Seoul National University Hospital (Mar 2024 - Apr 2024)
     - Organized challenge with 200+ participants
 - **Vice President**, [Young Engineers Honor Society (YEHS)](https://www.naekyehs.org/), National Academy of Engineering of Korea (Jan 2021 - Dec 2021)
-    - 1 of 7 executive board members leading 1,600+ Korean engineering leaders
+    - 1 of 7 executive board members leading 1,600+ young engineering professionals and students nationwide
 - [Young Engineers Honor Society (YEHS)](https://www.naekyehs.org/), National Academy of Engineering of Korea (Aug 2019 - Present)
     - Selected as 1 of 3 EWHA Univ. representatives
