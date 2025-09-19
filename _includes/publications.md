@@ -14,9 +14,7 @@
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Sehoon Park*, <strong>Soomin Chung</strong>*, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+</div>
     <div class="periodical"><em>PLOS Medicine (SCIE, <strong><i style="color:#e74d3c">IF=10.5, JCR 2023 top 3.5%</i></strong>), 2025.</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ assets/files/PLOS_Med_AKI.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
+      <a href="assets/files/PLOS_Med_AKI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>    
   </div>
 </div>
@@ -35,9 +33,7 @@
     <div class="author">Hail Song*, Wonsik Shin*, Naeun Lee, <strong>Soomin Chung</strong>, Nojun Kwak+, Woontack Woo+</div>
     <div class="periodical"><em>GMCV Workshop at CVPR, 2025.</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ assets/files/CVPR_S3D.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
+      <a href="assets/files/CVPR_S3D.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>        
   </div>
 </div>
@@ -56,9 +52,7 @@
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Soonil Kwon*, <strong>Soomin Chung</strong>*, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh</div>
     <div class="periodical"><em>Digital Health (SCIE, IF=2.9), 2025.</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ assets/files/Digital_Health_AFib.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
+      <a href="assets/files/Digital_Health_AFib.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>            
   </div>
 </div>
@@ -77,9 +71,7 @@
     <div class="author"><strong>Soomin Chung</strong></div>
     <div class="periodical"><em>M.S. Thesis, Seoul National University, 2025.</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ assets/files/master_thesis.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
+      <a href="assets/files/master_thesis.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>                
   </div>
 </div>
@@ -98,9 +90,7 @@
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Hong Yeul Lee*, <strong>Soomin Chung</strong>*, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+</div>
     <div class="periodical"><em>npj Digital Medicine (SCIE, <strong><i style="color:#e74d3c">IF=15.2, JCR 2023 top 0.9%</i></strong>), 2024.</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ assets/files/npj_RL.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
+      <a href="assets/files/npj_RL.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>            
   </div>
 </div>
