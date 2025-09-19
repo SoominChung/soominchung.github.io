@@ -13,6 +13,11 @@
     <div class="title"><a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566">A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study</a></div>
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Sehoon Park*, <strong>Soomin Chung</strong>*, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+</div>
     <div class="periodical"><em>PLOS Medicine (SCIE, <strong><i style="color:#e74d3c">IF=10.5, JCR 2023 top 3.5%</i></strong>), 2025.</em></div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ assets/files/PLOS_Med_AKI.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>    
   </div>
 </div>
 </li>
@@ -26,9 +31,14 @@
     <abbr class="badge">CVPR Workshop</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2505.04185">S3D: Sketch-Driven 3D Model Generation</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2505.04185">S3D: Sketch-Driven 3D Model Generation</a></div>
     <div class="author">Hail Song*, Wonsik Shin*, Naeun Lee, <strong>Soomin Chung</strong>, Nojun Kwak+, Woontack Woo+</div>
     <div class="periodical"><em>GMCV Workshop at CVPR, 2025.</em></div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ assets/files/CVPR_S3D.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>        
   </div>
 </div>
 </li>
@@ -42,9 +52,14 @@
     <abbr class="badge">Digital Health</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://journals.sagepub.com/doi/pdf/10.1177/20552076241311460">Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study</a></div>
+    <div class="title"><a href="https://journals.sagepub.com/doi/full/10.1177/20552076241311460">Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study</a></div>
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Soonil Kwon*, <strong>Soomin Chung</strong>*, So-Ryoung Lee+, Kwangsoo Kim+, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh</div>
     <div class="periodical"><em>Digital Health (SCIE, IF=2.9), 2025.</em></div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ assets/files/Digital_Health_AFib.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>            
   </div>
 </div>
 </li>
@@ -58,9 +73,14 @@
     <abbr class="badge">M.S. Thesis</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/master_thesis.pdf">Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction</a></div>
+    <div class="title"><a href="https://s-space.snu.ac.kr/handle/10371/221865">Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction</a></div>
     <div class="author"><strong>Soomin Chung</strong></div>
     <div class="periodical"><em>M.S. Thesis, Seoul National University, 2025.</em></div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ assets/files/master_thesis.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>                
   </div>
 </div>
 </li>
@@ -77,6 +97,11 @@
     <div class="title"><a href="https://www.nature.com/articles/s41746-024-01335-x">Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients</a></div>
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Hong Yeul Lee*, <strong>Soomin Chung</strong>*, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+</div>
     <div class="periodical"><em>npj Digital Medicine (SCIE, <strong><i style="color:#e74d3c">IF=15.2, JCR 2023 top 0.9%</i></strong>), 2024.</em></div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ assets/files/npj_RL.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>            
   </div>
 </div>
 </li>
