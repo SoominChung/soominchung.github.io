@@ -15,8 +15,6 @@
     <div class="periodical"><em>PLOS Medicine (SCIE, <strong><i style="color:#e74d3c">IF=10.5, JCR 2023 top 3.5%</i></strong>), 2025.</em></div>
     <div class="links">
       <a href="assets/files/PLOS_Med_AKI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>    
-    <div class="links">
       <a href="assets/files/AKI_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>        
   </div>
@@ -37,8 +35,6 @@
     <div class="periodical"><em>GMCV Workshop at CVPR, 2025.</em></div>
     <div class="links">
       <a href="assets/files/CVPR_S3D.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>       
-    <div class="links">
       <a href="assets/files/S3D_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>             
   </div>
