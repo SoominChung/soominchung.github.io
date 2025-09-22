@@ -16,6 +16,9 @@
     <div class="links">
       <a href="assets/files/PLOS_Med_AKI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>    
+    <div class="links">
+      <a href="assets/files/AKI_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>        
   </div>
 </div>
 </li>
@@ -34,7 +37,10 @@
     <div class="periodical"><em>GMCV Workshop at CVPR, 2025.</em></div>
     <div class="links">
       <a href="assets/files/CVPR_S3D.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>        
+    </div>       
+    <div class="links">
+      <a href="assets/files/S3D_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>             
   </div>
 </div>
 </li>
