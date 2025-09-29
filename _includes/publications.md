@@ -71,7 +71,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://journals.sagepub.com/doi/full/10.1177/20552076241311460">Prediction of reduced left ventricular ejection fraction using atrial fibrillation or flutter electrocardiograms: A machine-learning study</a></div>
     <div class="author"><i style="color:#0b63ce">(co-first)</i> Soonil Kwon*, <strong>Soomin Chung</strong>*, Junmo Kim, Dahyeon Baek, Hyun-Lim Yang, Eue-Keun Choi, Seil Oh, So-Ryoung Lee+, Kwangsoo Kim+</div>
-    <div class="periodical"><em>Digital Health (SCIE, IF=2.9), 2025.</em></div>
+    <div class="periodical"><em>Digital Health (SCIE, IF=3.3), 2025.</em></div>
     <div class="links">
       <a href="assets/files/Digital_Health_AFib.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>            
