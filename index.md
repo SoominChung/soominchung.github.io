@@ -9,7 +9,7 @@ I am a medical AI researcher with an M.S. in Biomedical Engineering at [Seoul Na
 I have conducted research developing AI models to address real-world clinical challenges, leveraging diverse clinical data sources, including Electronic Health Records (EHR), vital signs, Electrocardiography (ECG), and Electromyography (EMG).
 Looking ahead, I aim to integrate multi-modal data generated across the patient’s life course—such as clinical records, medical imaging, biosignals, and EHR—to advance personalized healthcare.
 
-📍 Currently, I am preparing PhD applications for Fall 2026 entry in several countries. If you are interested in potential collaborations or discussions, please feel free to reach out!
+📍 I am currently preparing PhD applications for Fall 2026 entry, and I always welcome the chance to connect with others—please feel free to reach out!
 
 ## Research Interests
 
