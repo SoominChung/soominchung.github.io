@@ -15,6 +15,7 @@ Looking ahead, I aim to integrate multi-modal data generated across the patientâ
 
 - **Medical AI (AI4Health):** clinical decision support, biosignal analysis (ECG, vital signs), EHR, longitudinal modeling
 - **AI Methodologies:** multi-modal learning, representation alignment, reinforcement learning, computer vision
+
 _(but not limited to the above)_
 
 ## News
