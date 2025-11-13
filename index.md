@@ -20,7 +20,7 @@ _(but not limited to the above)_
 
 ## News
 
-- **[Nov. 2025]** Presented Deep-learning model for intraoperative AKI prediction at the 2025 DTM Academic Festival (Outstanding Research Presentation, [Department of Transdisciplinary Medicine] (http://www.snuh.org/global/en/find/findDeptView.do?hsp_cd=1&dp_code=TDMAT), [Seoul National University Hospital] (http://www.snuh.org/global/en/main.do))
+- **[Nov. 2025]** Presented Deep-learning model for intraoperative AKI prediction at the 2025 DTM Academic Festival (Outstanding Research Presentation, [Department of Transdisciplinary Medicine](http://www.snuh.org/global/en/find/findDeptView.do?hsp_cd=1&dp_code=TDMAT), [Seoul National University Hospital](http://www.snuh.org/global/en/main.do))
 - **[Apr. 2025]** [Deep-learning model for intraoperative AKI prediction](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) published in [PLOS Medicine](https://journals.plos.org/plosmedicine/)
 - **[Mar. 2025]** [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
 - **[Feb. 2025]** Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
@@ -32,11 +32,11 @@ _(but not limited to the above)_
 ## Education
 - **Seoul National University**, (Sep 2022 - Feb 2025)
   - **M.S.** in Biomedical Engineering
-  - Thesis: [Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction] (https://s-space.snu.ac.kr/handle/10371/221865)
+  - Thesis: [Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction](https://s-space.snu.ac.kr/handle/10371/221865)
 
 - **EWHA Womans University** (Mar 2018 - Aug 2022)
   - **B.S.** in Mechanical & Biomedical Engineering (Minor in Computer Engineering)
-  - Thesis: [AI Speaker–Based Integrated Psychological Counseling System for Children and Adolescents] (https://soominchung.github.io/assets/files/KCSE2022_EWHA_graduate.pdf)
+  - Thesis: [AI Speaker–Based Integrated Psychological Counseling System for Children and Adolescents](https://soominchung.github.io/assets/files/KCSE2022_EWHA_graduate.pdf)
 
 
 ## Experience
