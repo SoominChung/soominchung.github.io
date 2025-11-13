@@ -38,3 +38,5 @@ exclude:
   - README.md
   - LICENSE
   - CNAME
+
+auto_dark_mode: false
