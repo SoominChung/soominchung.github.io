@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <script>
+        // 다크모드 강제 비활성화
+        (function() {
+            if (window.matchMedia) {
+                var style = document.createElement('style');
+                style.innerHTML = `
+                    :root { color-scheme: light !important; }
+                    * { color-scheme: light !important; }
+                `;
+                document.head.appendChild(style);
+            }
+        })();
+    </script>
+
     <meta name="color-scheme" content="light">
     <title>{{ site.title }} | {{ site.affiliation }}</title>
 
