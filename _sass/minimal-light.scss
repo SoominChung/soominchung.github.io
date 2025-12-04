@@ -172,7 +172,7 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #20212b;
+        background-color: #ffffff;
         color: #dadbdf;
     }
 
@@ -219,7 +219,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0%;
     }
 
       .image.avatar:before {
@@ -227,8 +227,8 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
+        border-radius: 0%;
+        width: 70%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -511,7 +511,7 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
+        border-radius: 0%;
         width: 117px;
         padding:20px;
       }
@@ -567,7 +567,7 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 100%;
+      border-radius: 0%;
       width: 95px;
       padding:20px;
   }
