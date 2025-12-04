@@ -172,12 +172,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #ffffff;
-        color: #dadbdf;
+        background-color: #f6f5f5;
+        color: #595959;
     }
 
     autocolor{
-      color:#dadbdf;
+      color:#000000;
     }
 
     lightonly {
@@ -189,7 +189,7 @@ papertitle {
     }
 
     papertitle {
-    color:#eeeff0;
+    color:#1e3a8a;
     }
 
 }
@@ -228,8 +228,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 0%;
-        width: 70%;
-        padding: 20px;
+        width: 100%;
+        padding: 0px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -513,7 +513,7 @@ footer {
    .image.avatar img {
         border-radius: 0%;
         width: 117px;
-        padding:20px;
+        padding:0px;
       }
   #head1o2 {
     visibility: hidden;
