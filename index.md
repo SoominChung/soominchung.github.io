@@ -5,16 +5,17 @@ layout: homepage
 ## About Me
 
 Hello! 🌿
-I am a medical AI researcher with an M.S. in Biomedical Engineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
-I have conducted research developing AI models to address real-world clinical challenges, leveraging diverse clinical data sources, including Electronic Health Records (EHR), vital signs, Electrocardiography (ECG), and Electromyography (EMG).
-Looking ahead, I aim to integrate multi-modal data generated across the patient’s life course—such as clinical records, medical imaging, biosignals, and EHR—to advance personalized healthcare.
+I am a medical AI researcher with an M.S. in Bioengineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
+My research focuses on multimodal and longitudinal modeling for clinical decision support, using biosignals (e.g., ECG, EMG, vital signs) and electronic health records.
+Looking ahead, I aim to build AI systems that integrate multimodal patient data over time and extend monitoring beyond hospitals into everyday life through wearables, enabling truly personalized and continuous care.
+
 
 📍 I am currently preparing PhD applications for Fall 2026 entry, and I always welcome the chance to connect with others—please feel free to reach out!
 
 ## Research Interests
 
-- **Medical AI (AI4Health):** clinical decision support, biosignal analysis (ECG, vital signs), EHR, longitudinal modeling
-- **AI Methodologies:** multi-modal learning, representation alignment, reinforcement learning, computer vision
+- **Medical AI (AI4Health):** biosignal analysis (ECG, vital signs), longitudinal modeling, clinical decision support
+- **AI Methodologies:** multi-modal learning, reinforcement learning, representation learning 
 
 _(but not limited to the above)_
 
