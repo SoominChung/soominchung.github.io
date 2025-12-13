@@ -7,7 +7,7 @@ layout: homepage
 Hello! 🌿
 I am a medical AI researcher with an M.S. in Bioengineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
 My research focuses on multimodal and longitudinal modeling for clinical decision support, using biosignals (e.g., ECG, EMG, vital signs) and electronic health records.
-Looking ahead, I aim to build AI systems that integrate multimodal patient data over time and extend monitoring beyond hospitals into everyday life through wearables, enabling truly personalized and continuous care.
+Looking ahead, my research interests lie in multimodal and longitudinal patient modeling and wearable-based continuous monitoring to enable more personalized care.
 
 
 📍 I am currently preparing PhD applications for Fall 2026 entry, and I always welcome the chance to connect with others—please feel free to reach out!
@@ -15,7 +15,7 @@ Looking ahead, I aim to build AI systems that integrate multimodal patient data 
 ## Research Interests
 
 - **Medical AI (AI4Health):** biosignal analysis (ECG, vital signs), longitudinal modeling, clinical decision support
-- **AI Methodologies:** multi-modal learning, reinforcement learning, representation learning 
+- **AI Methodologies:** multi-modal learning, reinforcement learning, representation learning, computer vision
 
 _(but not limited to the above)_
 
