@@ -7,21 +7,20 @@ layout: homepage
 Hello! 🌿
 I am a medical AI researcher with an M.S. in Bioengineering at [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
 My research focuses on multimodal and longitudinal modeling for clinical decision support, using biosignals (e.g., ECG, EMG, vital signs) and electronic health records.
-I am particularly interested in developing clinically meaningful AI systems that leverage longitudinal patient trajectories and wearable-based continuous monitoring to enable more personalized and proactive healthcare.
+I am particularly interested in developing clinically meaningful AI systems for more personalized and proactive healthcare, leveraging longitudinal patient trajectories derived from multimodal data and wearable-based continuous monitoring.
 
 
 📍 I am currently preparing PhD applications for Fall 2026 entry, and I always welcome the chance to connect with others—please feel free to reach out!
 
 ## Research Interests
 
-- **Medical AI (AI4Health):** biosignal analysis (ECG, vital signs), longitudinal modeling, clinical decision support
-- **AI Methodologies:** multi-modal learning, reinforcement learning, representation learning, computer vision
+- Medical AI (AI4Health), multimodal and longitudinal learning, wearable-based health monitoring, foundation models for healthcare
+
 
 _(but not limited to the above)_
 
 ## News
 
-- **[Nov. 2025]** Presented an outstanding research session on [AKI prediction](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) at the 2025 Academic Festival ([Department of Transdisciplinary Medicine](https://dtm.snuh.org/), [Seoul National University Hospital](http://www.snuh.org/global/en/main.do))
 - **[Apr. 2025]** [Deep-learning model for intraoperative AKI prediction](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) published in [PLOS Medicine](https://journals.plos.org/plosmedicine/)
 - **[Mar. 2025]** [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
 - **[Feb. 2025]** Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
