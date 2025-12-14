@@ -15,7 +15,7 @@ I am particularly interested in developing clinically meaningful AI systems for 
 ## Research Interests
 
 - Medical AI (AI4Health), multimodal and longitudinal learning, wearable-based health monitoring, foundation models for healthcare
-_(but not limited to the above)_
+_(but not limited to these areas)_
 
 ## News
 
