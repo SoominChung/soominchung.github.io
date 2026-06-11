@@ -14,7 +14,7 @@ My research focuses on multimodal and longitudinal modeling for clinical decisio
 
 ## Research Interests
 
-- Medical AI (AI4Health), multimodal and longitudinal learning, wearable-based health monitoring, foundation models for healthcare, reinforcement learning
+- Medical AI (AI4Health), multimodal and longitudinal learning, wearable-based health monitoring, foundation models for healthcare, reinforcement learning  
 _(but not limited to these areas)_
 
 ## News
