@@ -45,6 +45,25 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nEMG.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE TCBB</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11513718">Deep learning-based volition detection and action potential extraction for fully automated diagnosis of neuromuscular disease using needle electromyography signals</a></div>
+    <div class="author"><strong>Soomin Chung</strong>*, Ilhan Yoo*, Jinkyu Lee, Dongmin Kim, Kwangsoo Kim, Keewon Kim+ and Seung-Bo Lee+</div>
+    <div class="periodical"><em>IEEE TCBB (SCIE, <strong><i style="color:#e74d3c">IF=3.4, JCR 2024 top 8.1%</i></strong>), 2026.</em></div>
+    <div class="links">
+      <a href="assets/files/nEMG.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>        
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/S3D.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR Workshop</abbr>
   </div>
@@ -62,7 +81,7 @@
 
 <br>
 
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/AFibEFNet.png" class="teaser img-fluid z-depth-1">
@@ -79,7 +98,7 @@
 </div>
 </li>
 
-<br>
+<br> -->
 
 <li>
 <div class="pub-row">
