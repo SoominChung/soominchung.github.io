@@ -5,13 +5,11 @@ layout: homepage
 ## About Me
 
 Hello! 🌿
-I am an incoming Ph.D. student in [Data Science](https://cds.nyu.edu/) at [New York University (NYU)](https://www.nyu.edu/), starting in Fall 2026. I am incredibly fortunate to be co-advised by [Prof. Kyunghyun Cho](https://kyunghyuncho.me/) and [Prof. Eric Karl Oermann](https://nyuolab.org/). 
-
-Prior to this, I earned my M.S. in Bioengineering from [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).
-
+I am an incoming Ph.D. student in [Data Science](https://cds.nyu.edu/) at [New York University (NYU)](https://www.nyu.edu/), starting in Fall 2026. I am incredibly fortunate to be co-advised by [Prof. Kyunghyun Cho](https://kyunghyuncho.me/) and [Prof. Eric K Oermann](https://nyuolab.org/).  
+Prior to this, I earned my M.S. in Bioengineering from [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).  
 My research focuses on multimodal and longitudinal modeling for clinical decision support, leveraging biosignals (e.g., ECG, EMG, vital signs) and electronic health records. I am deeply interested in developing clinically meaningful, proactive AI systems for personalized healthcare, specifically through longitudinal patient trajectories, reinforcement learning, and wearable-based continuous monitoring.
 
-📍 I am always excited to connect and collaborate with fellow researchers. Please feel free to reach out! 😸
+📍 I am always excited to connect and collaborate with fellow researchers. Please feel free to reach out!
 
 ## Research Interests
 
