@@ -4,46 +4,27 @@
 @import "minimal-light";
 
 /* ===================================================
-   NYU Brand & Academic Palette Override
+   Refined NYU Purple Theme
    =================================================== */
 
-/* 1. 사이드바 이름 & 대제목 (About Me, Research Interests 등)
-      -> 묵직하고 고급스러운 다크 차콜 (가독성 최적화) */
+/* 1. 사이드바 이름 & 모든 섹션 대제목 (About Me, News, Publications 등)
+      -> 확실한 NYU Purple 포인트 */
 h1, h2, h3, h4, h5, h6,
 .author__name,
 header h1, header h2, header h3 {
-  color: #1e2432 !important;
-  letter-spacing: -0.3px;
-}
-
-/* 2. 본문 인라인 링크 -> NYU Purple 포인트 */
-a {
   color: #57068c !important;
-  text-decoration: none;
-  transition: color 0.15s ease-in-out;
+  font-weight: 600;
+  letter-spacing: -0.2px;
 }
 
-a:hover {
-  color: #3b0764 !important; /* 호버 시 딥 플럼 */
-  text-decoration: underline;
-}
-
-autocolor {
-  color: #57068c !important;
-}
-
-autocolor:hover {
-  color: #3b0764 !important;
-}
-
-/* 3. 소셜/프로필 아이콘 (Google Scholar, CV, GitHub, LinkedIn 등)
-      -> 기본은 단정한 슬레이트 그레이, 호버 시 NYU Purple */
+/* 2. 소셜/프로필 아이콘 (Google Scholar, CV, GitHub, LinkedIn)
+      -> 세련된 미디엄 라벤더 퍼플 (호버 시 딥 퍼플로 확대) */
 .social-icons a,
 .social-icons i,
 .social-icons svg,
 .author__urls a,
 .author__urls i {
-  color: #64748b !important;
+  color: #7b43a8 !important; /* 부드럽고 화사한 연보라빛 퍼플 */
   transition: all 0.2s ease-in-out;
 }
 
@@ -51,21 +32,39 @@ autocolor:hover {
 .social-icons a:hover i,
 .author__urls a:hover,
 .author__urls a:hover i {
+  color: #57068c !important; /* 호버 시 진한 NYU 퍼플 */
+  transform: scale(1.18);
+}
+
+/* 3. 본문 텍스트 링크 */
+a {
   color: #57068c !important;
-  transform: scale(1.1);
+  text-decoration: none;
 }
 
-/* 4. 논문 제목 (Selected Publications 내 papertitle) */
-papertitle {
-  color: #18181b !important;
-  font-weight: 600;
+a:hover {
+  color: #3b0764 !important;
+  text-decoration: underline;
 }
 
-/* 5. 저널/콘퍼런스 배지 (npj Digital Medicine, PLOS Medicine 등)
-      -> 묵직한 딥 플럼 퍼플 */
+autocolor {
+  color: #57068c !important;
+}
+
+/* 4. Education 섹션 내 대학/기관명 강조
+      -> 밋밋한 검은색 대신 은은하고 깊이 있는 딥 퍼플 */
+#education + ul > li > strong:first-child,
+#education ~ ul > li > strong:first-child,
+education,
+.education strong {
+  color: #4a154b !important;
+  font-size: 1.05rem;
+}
+
+/* 5. 저널 배지 (npj Digital Medicine, PLOS Medicine 등) */
 .publications .badge,
 .abbr .badge {
-  background-color: #4a154b !important;
+  background-color: #57068c !important;
   color: #ffffff !important;
   font-weight: 500;
   border-radius: 4px;
@@ -73,27 +72,37 @@ papertitle {
   font-size: 0.8rem;
 }
 
-/* 6. 다크 모드 링크/아이콘 대응 */
+/* 6. 논문 제목 (가독성을 위한 소프트 블랙) */
+papertitle,
+.publications .title a {
+  color: #1f2937 !important;
+  font-weight: 600;
+}
+
+.publications .title a:hover {
+  color: #57068c !important;
+}
+
+/* 7. 다크모드 대응 */
 @media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6,
+  .author__name,
   a, autocolor {
     color: #c084fc !important;
   }
 
-  a:hover, autocolor:hover {
+  .social-icons a,
+  .author__urls a {
+    color: #d8b4fe !important;
+  }
+
+  #education + ul > li > strong:first-child,
+  #education ~ ul > li > strong:first-child {
     color: #e9d5ff !important;
   }
 
-  .social-icons a,
-  .author__urls a {
-    color: #cbd5e1 !important;
-  }
-
-  .social-icons a:hover,
-  .author__urls a:hover {
-    color: #c084fc !important;
-  }
-
-  papertitle {
-    color: #f1f5f9 !important;
+  papertitle,
+  .publications .title a {
+    color: #f3f4f6 !important;
   }
 }
