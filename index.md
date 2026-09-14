@@ -25,7 +25,7 @@ _(open to exploring related frontiers)_
 
   <div style="margin-bottom: 12px;">
     <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Sep. 2026</span>
-    Started my Ph.D. in Data Science at <a href="https://cds.nyu.edu/" target="_blank">New York University (NYU CDS)</a>! 🗽
+    Started my Ph.D. in Data Science at <a href="https://cds.nyu.edu/" target="_blank">New York University</a>! 🗽
   </div>
 
   <div style="margin-bottom: 12px;">
