@@ -35,6 +35,9 @@ _(open to exploring related frontiers)_
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Education
+- **New York University (NYU)** (Sep 2026 - Present)
+  - **Ph.D.** in Data Science, [Center for Data Science (CDS)](https://cds.nyu.edu/)
+
 - **Seoul National University**, (Sep 2022 - Feb 2025)
   - **M.S.** in Biomedical Engineering
   - Thesis: [Longitudinal ECG Analysis with Deep Learning for Improved Detection of Reduced Left Ventricular Ejection Fraction](https://s-space.snu.ac.kr/handle/10371/221865)
