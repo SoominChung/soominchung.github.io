@@ -21,19 +21,37 @@ _(open to exploring related frontiers)_
 
 ## News
 
-<div markdown="1" style="max-height: 165px; overflow-y: auto; padding: 14px 18px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafbfc; margin-bottom: 40px; font-size: 0.92rem; line-height: 1.6;">
+<div style="max-height: 165px; overflow-y: auto; padding: 4px 6px 4px 0; margin-bottom: 40px; font-size: 0.95rem; line-height: 1.65;">
 
-<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Sep. 2026</span> Started my Ph.D. in Data Science at [New York University (NYU CDS)](https://cds.nyu.edu/)! 🗽</p>
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Sep. 2026</span>
+    Started my Ph.D. in Data Science at <a href="https://cds.nyu.edu/" target="_blank">New York University (NYU CDS)</a>! 🗽
+  </div>
 
-<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Jun. 2026</span> [Deep learning-based volition detection for neuromuscular disease diagnosis](https://ieeexplore.ieee.org/abstract/document/11513718) published in [IEEE Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/bb)</p>
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Jun. 2026</span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11513718" target="_blank">Deep learning-based volition detection for neuromuscular disease diagnosis</a> published in <a href="https://www.computer.org/csdl/journal/bb" target="_blank">IEEE Transactions on Computational Biology and Bioinformatics</a>
+  </div>
 
-<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Apr. 2025</span> [Deep learning-based AKI prediction using intraoperative vital signs](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) published in [PLOS Medicine](https://journals.plos.org/plosmedicine/)</p>
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Apr. 2025</span>
+    <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566" target="_blank">Deep learning-based AKI prediction using intraoperative vital signs</a> published in <a href="https://journals.plos.org/plosmedicine/" target="_blank">PLOS Medicine</a>
+  </div>
 
-<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Mar. 2025</span> [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!</p>
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Mar. 2025</span>
+    <a href="https://arxiv.org/pdf/2505.04185" target="_blank">S3D</a> accepted to <a href="https://generative-vision.github.io/workshop-CVPR-25" target="_blank">GMCV Workshop</a> at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
+  </div>
 
-<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Feb. 2025</span> Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)</p>
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Feb. 2025</span>
+    Successfully completed 6 month visiting scholar program at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>'s <a href="https://s3d.cmu.edu/" target="_blank">School of Computer Science</a> (Aug 2024 - Feb 2025)
+  </div>
 
-<p style="margin: 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Nov. 2024</span> [AID](https://www.nature.com/articles/s41746-024-01335-x) published in [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)</p>
+  <div style="margin-bottom: 4px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Nov. 2024</span>
+    <a href="https://www.nature.com/articles/s41746-024-01335-x" target="_blank">AID</a> published in <a href="https://www.nature.com/npjdigitalmed/" target="_blank">npj Digital Medicine</a>
+  </div>
 
 </div>
 

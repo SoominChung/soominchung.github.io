@@ -3,38 +3,38 @@
 
 @import "minimal-light";
 
-/* 라이트 모드 링크 색상 */
+/* 라이트 모드 링크 색상 (NYU Purple) */
 a {
-  color: #1e3a8a !important;
+  color: #57068c !important;
 }
 
 a:hover {
-  color: #1d4ed8 !important;
+  color: #330066 !important;
 }
 
 autocolor {
-  color: #1e3a8a !important;
+  color: #57068c !important;
 }
 
 autocolor:hover {
-  color: #1d4ed8 !important;
+  color: #330066 !important;
 }
 
-/* 다크 모드 링크 색상 - 더 밝은 파란색 */
+/* 다크 모드 링크 색상 - 배경 대비 가독성을 위한 밝은 퍼플 */
 @media (prefers-color-scheme: dark) {
   a {
-    color: #1e3a8a !important; /* 밝은 파란색 */
+    color: #c084fc !important; /* 밝은 라벤더 퍼플 */
   }
 
   a:hover {
-    color: #1d4ed8 !important; /* 더 밝은 파란색 */
+    color: #e9d5ff !important; /* 호버 시 더 밝은 톤 */
   }
 
   autocolor {
-    color: #1e3a8a !important;
+    color: #c084fc !important;
   }
 
   autocolor:hover {
-    color: #1d4ed8 !important;
+    color: #e9d5ff !important;
   }
 }
