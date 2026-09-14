@@ -16,11 +16,12 @@ Previously, my work centered on clinical decision support, utilizing multimodal 
 ## Research Interests
 
 - Patient Trajectory Modeling, Clinical Decision Support, Multimodal & Longitudinal Learning, Reinforcement Learning, Wearable-Based Monitoring, Medical AI (AI4Health)
+
 _(open to exploring related frontiers)_
 
 ## News
 
-<div style="max-height: 220px; overflow-y: auto; padding: 10px 14px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fafbfc;">
+<div markdown="1" style="max-height: 220px; overflow-y: auto; padding: 10px 14px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fafbfc;">
 
 - **[Sep. 2026]** Started my Ph.D. in Data Science at [New York University (NYU CDS)](https://cds.nyu.edu/)! 🗽
 - **[Jun. 2026]** [Deep learning-based volition detection for neuromuscular disease diagnosis](https://ieeexplore.ieee.org/abstract/document/11513718) published in [IEEE Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/bb)
