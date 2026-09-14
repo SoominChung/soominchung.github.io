@@ -21,7 +21,7 @@ _(open to exploring related frontiers)_
 
 ## News
 
-<div markdown="1" style="max-height: 220px; overflow-y: auto; padding: 10px 14px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fafbfc;">
+<div markdown="1" style="max-height: 160px; overflow-y: auto; padding: 12px 16px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fafbfc; margin-bottom: 40px;">
 
 - **[Sep. 2026]** Started my Ph.D. in Data Science at [New York University (NYU CDS)](https://cds.nyu.edu/)! 🗽
 - **[Jun. 2026]** [Deep learning-based volition detection for neuromuscular disease diagnosis](https://ieeexplore.ieee.org/abstract/document/11513718) published in [IEEE Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/bb)
