@@ -5,25 +5,31 @@ layout: homepage
 ## About Me
 
 Hello! 🌿
-I am a first-year Ph.D. student in [Data Science](https://cds.nyu.edu/) at [New York University (NYU)](https://www.nyu.edu/), starting in Fall 2026. I am incredibly fortunate to be co-advised by [Prof. Kyunghyun Cho](https://kyunghyuncho.me/) and [Prof. Eric Oermann](https://nyuolab.org/).  
+I am a first-year Ph.D. student in [Data Science](https://cds.nyu.edu/) at [New York University (NYU)](https://www.nyu.edu/). I am incredibly fortunate to be co-advised by [Prof. Kyunghyun Cho](https://kyunghyuncho.me/) and [Prof. Eric Oermann](https://nyuolab.org/).  
 Prior to this, I earned my M.S. in Bioengineering from [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).  
 
-My research focuses on multimodal and longitudinal modeling for clinical decision support, leveraging biosignals (e.g., ECG, EMG, vital signs) and electronic health records. I am deeply interested in developing clinically meaningful, proactive AI systems for personalized healthcare, specifically through longitudinal patient trajectories, reinforcement learning, and wearable-based continuous monitoring.
+My current research focuses on patient trajectory modeling, aiming to build proactive, clinically meaningful AI systems that map dynamic disease progression for personalized intervention.
+Previously, my work centered on clinical decision support, utilizing multimodal data such as biosignals (e.g., ECG, EMG, vitals) and electronic health records (EHR).
 
 📍 I am always excited to connect and collaborate with fellow researchers. Please feel free to reach out!
 
 ## Research Interests
 
-- Medical AI (AI4Health), multimodal and longitudinal learning, wearable-based health monitoring, foundation models for healthcare, reinforcement learning  
-_(but not limited to these areas)_
+- Patient Trajectory Modeling, Clinical Decision Support, Multimodal & Longitudinal Learning, Reinforcement Learning, Wearable-Based Monitoring, Medical AI (AI4Health)
+_(open to exploring related frontiers)_
 
 ## News
 
+<div style="max-height: 220px; overflow-y: auto; padding: 10px 14px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fafbfc;">
+
+- **[Sep. 2026]** Started my Ph.D. in Data Science at [New York University (NYU CDS)](https://cds.nyu.edu/)! 🗽
 - **[Jun. 2026]** [Deep learning-based volition detection for neuromuscular disease diagnosis](https://ieeexplore.ieee.org/abstract/document/11513718) published in [IEEE Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/bb)
 - **[Apr. 2025]** [Deep learning-based AKI prediction using intraoperative vital signs](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) published in [PLOS Medicine](https://journals.plos.org/plosmedicine/)
 - **[Mar. 2025]** [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
 - **[Feb. 2025]** Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
 - **[Nov. 2024]** [AID](https://www.nature.com/articles/s41746-024-01335-x) published in [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)
+
+</div>
 
 {% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %} -->
