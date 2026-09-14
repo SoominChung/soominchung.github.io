@@ -21,14 +21,19 @@ _(open to exploring related frontiers)_
 
 ## News
 
-<div markdown="1" style="max-height: 160px; overflow-y: auto; padding: 12px 16px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fafbfc; margin-bottom: 40px;">
+<div markdown="1" style="max-height: 165px; overflow-y: auto; padding: 14px 18px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafbfc; margin-bottom: 40px; font-size: 0.92rem; line-height: 1.6;">
 
-- **[Sep. 2026]** Started my Ph.D. in Data Science at [New York University (NYU CDS)](https://cds.nyu.edu/)! 🗽
-- **[Jun. 2026]** [Deep learning-based volition detection for neuromuscular disease diagnosis](https://ieeexplore.ieee.org/abstract/document/11513718) published in [IEEE Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/bb)
-- **[Apr. 2025]** [Deep learning-based AKI prediction using intraoperative vital signs](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) published in [PLOS Medicine](https://journals.plos.org/plosmedicine/)
-- **[Mar. 2025]** [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!
-- **[Feb. 2025]** Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)
-- **[Nov. 2024]** [AID](https://www.nature.com/articles/s41746-024-01335-x) published in [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)
+<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Sep. 2026</span> Started my Ph.D. in Data Science at [New York University (NYU CDS)](https://cds.nyu.edu/)! 🗽</p>
+
+<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Jun. 2026</span> [Deep learning-based volition detection for neuromuscular disease diagnosis](https://ieeexplore.ieee.org/abstract/document/11513718) published in [IEEE Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/bb)</p>
+
+<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Apr. 2025</span> [Deep learning-based AKI prediction using intraoperative vital signs](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566) published in [PLOS Medicine](https://journals.plos.org/plosmedicine/)</p>
+
+<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Mar. 2025</span> [S3D](https://arxiv.org/pdf/2505.04185) accepted to [GMCV Workshop](https://generative-vision.github.io/workshop-CVPR-25) at CVPR 2025! I will present a poster at the conference. See you in Nashville 🎸!</p>
+
+<p style="margin: 0 0 10px 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Feb. 2025</span> Successfully completed 6 month visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)'s [School of Computer Science](https://s3d.cmu.edu/) (Aug 2024 - Feb 2025)</p>
+
+<p style="margin: 0;"><span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Nov. 2024</span> [AID](https://www.nature.com/articles/s41746-024-01335-x) published in [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)</p>
 
 </div>
 
