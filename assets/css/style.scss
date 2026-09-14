@@ -3,13 +3,29 @@
 
 @import "minimal-light";
 
-/* 라이트 모드 링크 색상 (NYU Purple) */
+/* ===================================================
+   NYU Brand & Academic Palette Override
+   =================================================== */
+
+/* 1. 사이드바 이름 & 대제목 (About Me, Research Interests 등)
+      -> 묵직하고 고급스러운 다크 차콜 (가독성 최적화) */
+h1, h2, h3, h4, h5, h6,
+.author__name,
+header h1, header h2, header h3 {
+  color: #1e2432 !important;
+  letter-spacing: -0.3px;
+}
+
+/* 2. 본문 인라인 링크 -> NYU Purple 포인트 */
 a {
   color: #57068c !important;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
 }
 
 a:hover {
-  color: #330066 !important;
+  color: #3b0764 !important; /* 호버 시 딥 플럼 */
+  text-decoration: underline;
 }
 
 autocolor {
@@ -17,24 +33,67 @@ autocolor {
 }
 
 autocolor:hover {
-  color: #330066 !important;
+  color: #3b0764 !important;
 }
 
-/* 다크 모드 링크 색상 - 배경 대비 가독성을 위한 밝은 퍼플 */
+/* 3. 소셜/프로필 아이콘 (Google Scholar, CV, GitHub, LinkedIn 등)
+      -> 기본은 단정한 슬레이트 그레이, 호버 시 NYU Purple */
+.social-icons a,
+.social-icons i,
+.social-icons svg,
+.author__urls a,
+.author__urls i {
+  color: #64748b !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.social-icons a:hover,
+.social-icons a:hover i,
+.author__urls a:hover,
+.author__urls a:hover i {
+  color: #57068c !important;
+  transform: scale(1.1);
+}
+
+/* 4. 논문 제목 (Selected Publications 내 papertitle) */
+papertitle {
+  color: #18181b !important;
+  font-weight: 600;
+}
+
+/* 5. 저널/콘퍼런스 배지 (npj Digital Medicine, PLOS Medicine 등)
+      -> 묵직한 딥 플럼 퍼플 */
+.publications .badge,
+.abbr .badge {
+  background-color: #4a154b !important;
+  color: #ffffff !important;
+  font-weight: 500;
+  border-radius: 4px;
+  padding: 3px 7px;
+  font-size: 0.8rem;
+}
+
+/* 6. 다크 모드 링크/아이콘 대응 */
 @media (prefers-color-scheme: dark) {
-  a {
-    color: #c084fc !important; /* 밝은 라벤더 퍼플 */
-  }
-
-  a:hover {
-    color: #e9d5ff !important; /* 호버 시 더 밝은 톤 */
-  }
-
-  autocolor {
+  a, autocolor {
     color: #c084fc !important;
   }
 
-  autocolor:hover {
+  a:hover, autocolor:hover {
     color: #e9d5ff !important;
+  }
+
+  .social-icons a,
+  .author__urls a {
+    color: #cbd5e1 !important;
+  }
+
+  .social-icons a:hover,
+  .author__urls a:hover {
+    color: #c084fc !important;
+  }
+
+  papertitle {
+    color: #f1f5f9 !important;
   }
 }
