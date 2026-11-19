@@ -4,20 +4,15 @@ layout: homepage
 
 ## About Me
 
-Hello! 🌿
-I am a first-year Ph.D. student in [Data Science](https://cds.nyu.edu/) at [New York University (NYU)](https://www.nyu.edu/). I am incredibly fortunate to be co-advised by [Prof. Kyunghyun Cho](https://kyunghyuncho.me/) and [Prof. Eric Oermann](https://nyuolab.org/).  
-Prior to this, I earned my M.S. in Bioengineering from [Seoul National University](https://en.snu.ac.kr/) [Biomedical Informatics (BMI) Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate).  
+Hi :) I am a first-year Ph.D. student in [Data Science](https://cds.nyu.edu/) at [NYU](https://www.nyu.edu/), co-advised by [Prof. Kyunghyun Cho](https://kyunghyuncho.me/) and [Prof. Eric Oermann](https://nyuolab.org/).
 
-My current research focuses on patient trajectory modeling, aiming to build proactive, clinically meaningful AI systems that map dynamic disease progression for personalized intervention.
-Previously, my work centered on clinical decision support, utilizing multimodal data such as biosignals (e.g., ECG, EMG, vitals) and electronic health records (EHR).
+My research focuses on AI for personalized care: modeling how each patient’s health evolves over time and how they would respond to different interventions, so that clinical decisions can be tailored to the individual.
 
-📍 I am always excited to connect and collaborate with fellow researchers. Please feel free to reach out!
+Previously, I received my M.S. in Bioengineering from [Seoul National University](https://en.snu.ac.kr/) ([BMI Lab](https://sites.google.com/view/snuh-bmi-lab/home/), advised by [Prof. Kwangsoo Kim](https://scholar.google.co.kr/citations?hl=en&user=GCDi44QAAAAJ&view_op=list_works&sortby=pubdate)), working on clinical decision support with biosignals and EHR.
 
 ## Research Interests
 
-- Patient Trajectory Modeling, Clinical Decision Support, Multimodal & Longitudinal Learning, Reinforcement Learning, Wearable-Based Monitoring, Medical AI (AI4Health)
-
-_(open to exploring related frontiers)_
+Patient Trajectory Modeling · Counterfactual Reasoning · Reinforcement Learning · Representation Learning · Multimodal & Longitudinal EHR · Clinical Decision Support
 
 ## News
 
@@ -25,7 +20,7 @@ _(open to exploring related frontiers)_
 
   <div style="margin-bottom: 12px;">
     <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Oct. 2026</span>
-    <a href="https://openreview.net/forum?id=QAirZm8EJr" target="_blank">Modeling ICU Trajectories with Action-Conditioned World Models</a> accepted to <a href="https://ml4h.ahli.cc/" target="_blank">ML4H 2026</a>! Extended version on <a href="https://arxiv.org/abs/2610.23862" target="_blank">arXiv</a> 🌏
+    <a href="https://openreview.net/forum?id=QAirZm8EJr" target="_blank">Modeling ICU Trajectories with Action-Conditioned World Models</a> accepted to <a href="https://ml4h.ahli.cc/" target="_blank">ML4H 2026</a>
   </div>
 
   <div style="margin-bottom: 12px;">
