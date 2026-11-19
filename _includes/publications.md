@@ -10,13 +10,12 @@
     <abbr class="badge">ML4H</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openreview.net/forum?id=QAirZm8EJr">Modeling ICU Trajectories with Action-Conditioned World Models</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2610.23862">Modeling ICU Trajectories with Action-Conditioned World Models</a></div>
     <div class="author">Simon A. Lee, Jiahang Hank Sha, <strong>Soomin Chung</strong>, Kai Akamatsu, Jeffrey N. Chiang</div>
     <div class="periodical"><em>Machine Learning for Health (ML4H), 2026.</em></div>
     <div class="periodical" style="font-size:0.9em;">Extended version: <a href="https://arxiv.org/abs/2610.23862">Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models</a>, <em>arXiv preprint (under review)</em>.</div>
     <div class="links">
-      <a href="https://openreview.net/forum?id=QAirZm8EJr" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
-      <a href="https://arxiv.org/abs/2610.23862" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/abs/2610.23862" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
