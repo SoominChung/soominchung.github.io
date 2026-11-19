@@ -6,36 +6,18 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/AID.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">npj Digital Medicine</abbr>
+    <img src="assets/img/EHR-WM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ML4H</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.nature.com/articles/s41746-024-01335-x">Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients</a></div>
-    <div class="author"> Hong Yeul Lee*, <strong>Soomin Chung</strong>*, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+</div>
-    <div class="periodical"><em>npj Digital Medicine (SCIE, <strong><i style="color:#e74d3c">IF=15.1, JCR 2024 top 0.3%</i></strong>), 2024.</em></div>
+    <div class="title"><a href="https://openreview.net/forum?id=QAirZm8EJr">Modeling ICU Trajectories with Action-Conditioned World Models</a></div>
+    <div class="author">Simon A. Lee, Jiahang Hank Sha, <strong>Soomin Chung</strong>, Kai Akamatsu, Jeffrey N. Chiang</div>
+    <div class="periodical"><em>Machine Learning for Health (ML4H), 2026.</em></div>
+    <div class="periodical" style="font-size:0.9em;">Extended version: <a href="https://arxiv.org/abs/2610.23862">Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models</a>, <em>arXiv preprint (under review)</em>.</div>
     <div class="links">
-      <a href="assets/files/npj_RL.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>            
-  </div>
-</div>
-</li> 
-<!-- <i style="color:#0b63ce">(co-first)</i>이거색예뻤는데 -->
-<br>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/POAKI.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">PLOS Medicine</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566">A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study</a></div>
-    <div class="author">Sehoon Park*, <strong>Soomin Chung</strong>*, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+</div>
-    <div class="periodical"><em>PLOS Medicine (SCIE, <strong><i style="color:#e74d3c">IF=9.9, JCR 2024 top 3.8%</i></strong>), 2025.</em></div>
-    <div class="links">
-      <a href="assets/files/PLOS_Med_AKI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/AKI_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-    </div>        
+      <a href="https://openreview.net/forum?id=QAirZm8EJr" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
+      <a href="https://arxiv.org/abs/2610.23862" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
   </div>
 </div>
 </li>
@@ -64,17 +46,17 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/S3D.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR Workshop</abbr>
+    <img src="assets/img/POAKI.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">PLOS Medicine</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2505.04185">S3D: Sketch-Driven 3D Model Generation</a></div>
-    <div class="author">Hail Song*, Wonsik Shin*, Naeun Lee, <strong>Soomin Chung</strong>, Nojun Kwak+, Woontack Woo+</div>
-    <div class="periodical"><em>GMCV Workshop at CVPR, 2025.</em></div>
+    <div class="title"><a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004566">A deep-learning algorithm using real-time collected intraoperative vital sign signals for predicting acute kidney injury after major non-cardiac surgeries: A modelling study</a></div>
+    <div class="author">Sehoon Park*, <strong>Soomin Chung</strong>*, Yisak Kim, Sun-Ah Yang, Soie Kwon, Jeong Min Cho, Min Jae Lee, Eunbyeol Cho, Jiwon Ryu, Sejoong Kim, Jeonghwan Lee, Hyung Jin Yoon, Edward Choi, Kwangsoo Kim+, Hajeong Lee+</div>
+    <div class="periodical"><em>PLOS Medicine (SCIE, <strong><i style="color:#e74d3c">IF=9.9, JCR 2024 top 3.8%</i></strong>), 2025.</em></div>
     <div class="links">
-      <a href="assets/files/CVPR_S3D.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/S3D_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-    </div>             
+      <a href="assets/files/PLOS_Med_AKI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/AKI_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>        
   </div>
 </div>
 </li>
@@ -99,6 +81,45 @@
 </li>
 
 <br> -->
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/S3D.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR Workshop</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.04185">S3D: Sketch-Driven 3D Model Generation</a></div>
+    <div class="author">Hail Song*, Wonsik Shin*, Naeun Lee, <strong>Soomin Chung</strong>, Nojun Kwak+, Woontack Woo+</div>
+    <div class="periodical"><em>GMCV Workshop at CVPR, 2025.</em></div>
+    <div class="links">
+      <a href="assets/files/CVPR_S3D.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/S3D_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>             
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/AID.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">npj Digital Medicine</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.nature.com/articles/s41746-024-01335-x">Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients</a></div>
+    <div class="author"> Hong Yeul Lee*, <strong>Soomin Chung</strong>*, Dongwoo Hyeon, Hyun-Lim Yang, Hyung-Chul Lee, Ho Geol Ryu+, Hyeonhoon Lee+</div>
+    <div class="periodical"><em>npj Digital Medicine (SCIE, <strong><i style="color:#e74d3c">IF=15.1, JCR 2024 top 0.3%</i></strong>), 2024.</em></div>
+    <div class="links">
+      <a href="assets/files/npj_RL.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>            
+  </div>
+</div>
+</li> 
+<!-- <i style="color:#0b63ce">(co-first)</i>이거색예뻤는데 -->
+<br>
 
 <li>
 <div class="pub-row">

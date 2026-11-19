@@ -24,6 +24,11 @@ _(open to exploring related frontiers)_
 <div style="max-height: 165px; overflow-y: auto; padding: 4px 6px 4px 0; margin-bottom: 40px; font-size: 0.95rem; line-height: 1.65;">
 
   <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Oct. 2026</span>
+    <a href="https://openreview.net/forum?id=QAirZm8EJr" target="_blank">Modeling ICU Trajectories with Action-Conditioned World Models</a> accepted to <a href="https://ml4h.ahli.cc/" target="_blank">ML4H 2026</a>! Extended version on <a href="https://arxiv.org/abs/2610.23862" target="_blank">arXiv</a> 🌏
+  </div>
+
+  <div style="margin-bottom: 12px;">
     <span style="display: inline-block; background-color: #f1eafb; color: #57068c; font-weight: 600; font-size: 0.8rem; padding: 2px 8px; border-radius: 12px; margin-right: 6px;">Sep. 2026</span>
     Started my Ph.D. in Data Science at <a href="https://cds.nyu.edu/" target="_blank">New York University</a>! 🗽
   </div>
